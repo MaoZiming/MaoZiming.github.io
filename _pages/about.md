@@ -8,49 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.  
+I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.   
 
-I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.
 
-I am adviced by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU. I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+I am adviced by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU. 
+I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. 
+
 
 Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="250"/>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## 🌱 Research
+### System
+- Resource disaggregation (<em> in progress </em>)
+- Learned cache (<em> In submission </em>)
+- <ins>Ziming Mao</ins>, Anurag Khandelwal, Kiran Srinivasan, “Trinity: A Fast and Space-efficient Multi-attribute Data Store”
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### NLP / Machine Learning
+* <ins>Ziming Mao*</ins>, Chen Henry Wu*, Ansong Ni, et. al. “DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference (* Equal Contribution) [[Paper](https://arxiv.org/abs/2110.08168)]
+* Yusen Zhang, Ansong Ni, <ins>Ziming Mao</ins>, et. al. “SummN: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference [[Paper](https://arxiv.org/abs/2110.10150)]
+* Linyong Nan, Chia-Hsuan Hsieh, <ins>Ziming Mao</ins>, et. al. “FeTaQA: Free-form Table Question Answering” Accepted at Transactions of the Association for Computational Linguistics (TACL) 2022 [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering)]
+* Xiangru Tang, Alexander R. Fabbri, <ins>Ziming Mao</ins>, et. al. “Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries” Accepted at the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022 Main Conference. [[Paper](https://arxiv.org/abs/2109.09195)]
+### Earlier Works
+* Yong Zen Tan, <ins>Ziming Mao</ins>, Yanjun Zhang, et. al. "Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]
+* Bing Wu, Yanjun Zhang, <ins>Ziming Mao</ins>, et. al. "Spacer vibration for fouling control of submerged flat sheet membranes". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## 🔭 Hobby
+Astrophotography! 🌌  Check out my photos [here](https://www.instagram.com/ziming.astro)!  
+I also run an Instagram channel with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
