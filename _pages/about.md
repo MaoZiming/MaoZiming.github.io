@@ -23,13 +23,13 @@ I am Ziming! I am a junior at Yale College, pursuing a BS in Computer Science an
 \[2019.9\] Started undergraduate study at Yale!\
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!
 ## Research
-### System
+### *System*
 
 *Learned Cache (In Submission)*
 
 Trinity: A Fast and Space-efficient Multi-attribute Data Store\
 **<ins>Ziming Mao</ins>**, Anurag Khandelwal, Kiran Srinivasan
-### NLP / Machine Learning
+### *NLP / Machine Learning*
 
 **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** [[Paper](https://arxiv.org/abs/2110.08168)]\
 <ins>Ziming Mao\*</ins>, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\ 
@@ -47,7 +47,7 @@ TACL 2021
 Xiangru Tang, Alexander R. Fabbri, **<ins>Ziming Mao</ins>**, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev\
 NAACL 2022 Main Conference. 
 
-### Earlier Works
+### *Earlier Works*
 **Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers** [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]\
 Yong Zen Tan, **<ins>Ziming Mao</ins>**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
 Separation and Purification Technology, 2019 
