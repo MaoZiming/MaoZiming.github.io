@@ -40,7 +40,7 @@ Yusen Zhang, Ansong Ni, **<ins>Ziming Mao</ins>**, Chen Henry Wu, Chenguang Zhu,
 ACL 2022
 
 FeTaQA: Free-form Table Question Answering [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering)]\
-Linyong Nan, Chiachun Hsieh, **<ins>Ziming Mao</ins>**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev.\
+Linyong Nan, Chiachun Hsieh, **<ins>Ziming Mao</ins>**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
 TACL 2021
 
 Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [[Paper](https://arxiv.org/abs/2109.09195)]\
