@@ -20,7 +20,7 @@ I have worked on research collaborations with Microsoft Research, NetApp, Facebo
 
 \[2022.4\] One paper accepted at NAACL 2022!\
 \[2022.2\] Two papers accepted at ACL 2022!\
-\[2021.5\] One paper accepted at TACL 2021!\
+\[2021.5\] One paper accepted at TACL 2021!
 ## Research
 ### System
 - Resource disaggregation (<em> in progress </em>)
