@@ -9,14 +9,19 @@ redirect_from:
 ---
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.
-I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.
-I am adviced by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU.
-I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.\
+I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.\
+I am adviced by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU.\
+I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.\
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="250"/>
 
-## 🌱 Research
+## News
+
+\[2022.4\] One paper accepted at NAACL 2022!
+\[2022.2\] Two papers accepted at ACL 2022!
+\[2021.5\] One paper accepted at TACL 2021!
+## Research
 ### System
 - Resource disaggregation (<em> in progress </em>)
 - Learned cache (<em> In submission </em>)
