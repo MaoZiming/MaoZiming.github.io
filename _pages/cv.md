@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Feel free to check out my [CV](maoziming.github.io/files/CV.pdf) (Last update: April. 2022).
+Feel free to check out my [CV](files/CV.pdf) (Last update: April. 2022).
