@@ -19,7 +19,7 @@ I have worked on research collaborations with Microsoft Research, NetApp, Facebo
 ## News
 
 \[2022.4\] One paper accepted at NAACL 2022!\
-\[2022.2\] DYLE and Summ^N accepted at ACL 2022!\
+\[2022.2\] DYLE and Summ<sup>N</sup> accepted at ACL 2022!\
 \[2021.5\] FetaQA accepted at TACL 2021!\
 \[2019.9\] Started undergraduate study at Yale!\
 \[2019.5\] Two papers accepted at Separation and Purification Technology
@@ -31,7 +31,7 @@ I have worked on research collaborations with Microsoft Research, NetApp, Facebo
 
 ### NLP / Machine Learning
 * <ins>Ziming Mao\*</ins>, Chen Henry Wu\*, Ansong Ni, et. al. “DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference (\* Equal Contribution) [[Paper](https://arxiv.org/abs/2110.08168)]
-* Yusen Zhang, Ansong Ni, <ins>Ziming Mao</ins>, et. al. “SummN: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference [[Paper](https://arxiv.org/abs/2110.10150)]
+* Yusen Zhang, Ansong Ni, <ins>Ziming Mao</ins>, et. al. “Summ<sup>N</sup>: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference [[Paper](https://arxiv.org/abs/2110.10150)]
 * Linyong Nan, Chia-Hsuan Hsieh, <ins>Ziming Mao</ins>, et. al. “FeTaQA: Free-form Table Question Answering” Accepted at Transactions of the Association for Computational Linguistics (TACL) 2022 [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering)]
 * Xiangru Tang, Alexander R. Fabbri, <ins>Ziming Mao</ins>, et. al. “Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries” Accepted at the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2022 Main Conference. [[Paper](https://arxiv.org/abs/2109.09195)]
 
