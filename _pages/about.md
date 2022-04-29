@@ -27,8 +27,8 @@ I am Ziming! I am a junior at Yale College, pursuing a BS in Computer Science an
 
 *Learned Cache (In Submission)*
 
-Trinity: A Fast and Space-efficient Multi-attribute Data Store\
-**<ins>Ziming Mao</ins>**, Anurag Khandelwal, Kiran Srinivasan
+**Trinity: A Fast and Space-efficient Multi-attribute Data Store**\
+<ins>Ziming Mao</ins>**, Anurag Khandelwal, Kiran Srinivasan
 ### *NLP / Machine Learning*
 
 **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization** [[Paper](https://arxiv.org/abs/2110.08168)]\
