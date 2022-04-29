@@ -28,11 +28,11 @@ I am Ziming! I am a junior at Yale College, pursuing a BS in Computer Science an
 *Learned Cache (In Submission)*
 
 Trinity: A Fast and Space-efficient Multi-attribute Data Store\
-<ins>Ziming Mao</ins>**, Anurag Khandelwal, Kiran Srinivasan
+<ins>**Ziming Mao**</ins>**, Anurag Khandelwal, Kiran Srinivasan
 ### *NLP / Machine Learning*
 
 DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[Paper](https://arxiv.org/abs/2110.08168)]\
-<ins>Ziming Mao\*</ins>, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
+<ins>**Ziming Mao**\*</ins>, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022
 
 Summ<sup>N</sup>: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [[Paper](https://arxiv.org/abs/2110.10150)]\
