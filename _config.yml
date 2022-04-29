@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziming Mao"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Undergraduate Student at Yale College"
   location         : "New Haven, CT"
   employer         :
