@@ -20,7 +20,7 @@ I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science
 \[2022.4\] One paper accepted at NAACL 2022!\
 \[2022.2\] DYLE and Summ<sup>N</sup> accepted at ACL 2022!\
 \[2021.5\] FetaQA accepted at TACL 2021!\
-\[2019.9\] Started undergraduate study at Yale!
+\[2019.9\] Started undergraduate study at Yale!\
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!
 ## Research
 ### System
