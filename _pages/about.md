@@ -37,7 +37,7 @@ My interests lie in Big Data Systems, Machine Learning Systems, Cloud Computing,
 * Yong Zen Tan, <ins>Ziming Mao</ins>, Yanjun Zhang, et. al. "Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]
 * Bing Wu, Yanjun Zhang, <ins>Ziming Mao</ins>, et. al. "Spacer vibration for fouling control of submerged flat sheet membranes". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]
 
-## 🔭 Hobby
+## Hobby
 Astrophotography! 🌌  Check out my photos [here](https://www.instagram.com/ziming.astro)!  
 I also run an Instagram channel with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
