@@ -25,6 +25,8 @@ I am Ziming! I am a rising senior at Yale College, pursuing a BS in Computer Sci
 ## Research
 ### System
 
+*Currently working on resource disaggregation :)*
+
 *Learned Cache (In Submission)*
 
 Trinity: A Fast and Space-efficient Multi-attribute Data Store\
