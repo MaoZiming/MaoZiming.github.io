@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am Ziming! I am a junior at Yale College, pursuing a BS in Computer Science and BA in Philosophy. I am advised by [Dragomir Radev](http://www.cs.yale.edu/homes/radev/), [Anurag Khandelwal](https://www.anuragkhandelwal.com/) from Yale, and [Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+I am Ziming! I am a rising senior at Yale College, pursuing a BS in Computer Science and BA in Philosophy. I am advised by [Anurag Khandelwal](https://www.anuragkhandelwal.com/) from Yale, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/), and [Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
 *I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.*
 
