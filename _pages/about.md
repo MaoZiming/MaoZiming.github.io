@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "My page!"
-excerpt: "My page!"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am Ziming! I am a rising senior at Yale College, pursuing a BS in Computer Science and BA in Philosophy. I am advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+I am Ziming! I am a rising senior at Yale College, pursuing a BS in Computer Science and BA in Philosophy. I am advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
-*I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.*
+My goal is to build systems with *generalizable and interpretable* theoretical insights and *potential for adoption* in the industry. I am mainly interested in distributed systems, big data systems, machine learning systems, and cloud computing.
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="250"/>
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
 
 ## News
 
