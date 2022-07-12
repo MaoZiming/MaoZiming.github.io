@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Trinity: A Fast and Space-efficient Multi-attribute Data Store\
-<ins>Ziming Mao</ins>, Anurag Khandelwal, Kiran Srinivasan
-
 DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[Paper](https://arxiv.org/abs/2110.08168)]\
 <ins>Ziming Mao\*</ins>, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022
