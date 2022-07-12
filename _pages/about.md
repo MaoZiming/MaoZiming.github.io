@@ -27,12 +27,12 @@ I am broadly interested in distributed systems, big data systems, machine learni
 ## Research
 ### System
 
-*Currently working on resource disaggregation :)*
+*Memory disaggregation (Currently working)*
 
-*Learned Cache (In Submission)*
+*Learned Cache (In submission)*
 
-Trinity: A Fast and Space-efficient Multi-attribute Data Store\
-<ins>Ziming Mao</ins>, Anurag Khandelwal, Kiran Srinivasan
+*Multi-attribute Data Store (In submission)*
+
 ### NLP / Machine Learning
 
 DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[Paper](https://arxiv.org/abs/2110.08168)]\
