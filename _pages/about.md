@@ -27,7 +27,7 @@ I am broadly interested in distributed systems, big data systems, machine learni
 ## Research
 ### System
 
-*Memory disaggregation (Currently working)*
+*Memory Disaggregation (Currently working)*
 
 *Learned Cache (In submission)*
 
