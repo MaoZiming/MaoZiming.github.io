@@ -57,7 +57,7 @@ Yong Zen Tan, <ins>Ziming Mao</ins>, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong,
 Separation and Purification Technology, 2019 
 
 Spacer vibration for fouling control of submerged flat sheet membranes [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]\
-Bing Wu, Yanjun Zhang, <ins>Ziming Mao</ins>, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane
+Bing Wu, Yanjun Zhang, <ins>Ziming Mao</ins>, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
 Separation and Purification Technology, 2019 
 
 (\* Equal Contribution) 
