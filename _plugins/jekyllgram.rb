@@ -38,7 +38,7 @@ module Jekyll
 
     def initialize(tag, params, token)
       @limit = params.to_i
-      @access_token = ENV['JEKYLLGRAM_TOKEN']
+      @access_token = ENV['IGQVJVa2ZAqUy16dzBncEs4bUFtU2FhendtVVJqYmtHSW9LbUNnWnlDUEIzeElQWUEwVTBBRWZA6TTBRMDFUclJCVXNxbUhYMkZAGazlvcFNMV3Y4ZA3RHVzhCYXdqNEczbEx1UnhXbkYzTGNHcERRTjRSYgZDZD']
       @api_url = 'https://graph.instagram.com/me'
       @logger = Logger.new(STDOUT)
       @logger_label = "JEKYLL INSTAGRAM PLUGIN"
@@ -74,8 +74,6 @@ module Jekyll
       # A full list of fields available can be fount at: 
       # https://developers.facebook.com/docs/instagram-basic-display-api/reference/media#fields
       fields = 'id,timestamp,permalink,caption,media_type,media_url,thumbnail_url,username'
-      api_url = 'https://graph.instagram.com/me'
-      access_token = 'IGQVJVa2ZAqUy16dzBncEs4bUFtU2FhendtVVJqYmtHSW9LbUNnWnlDUEIzeElQWUEwVTBBRWZA6TTBRMDFUclJCVXNxbUhYMkZAGazlvcFNMV3Y4ZA3RHVzhCYXdqNEczbEx1UnhXbkYzTGNHcERRTjRSYgZDZD'
       request_url = "#{@api_url}/media?fields=#{fields}&access_token=#{@access_token}"
 
       if !@access_token or @access_token.empty?
