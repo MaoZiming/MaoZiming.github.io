@@ -74,8 +74,9 @@ module Jekyll
       # A full list of fields available can be fount at: 
       # https://developers.facebook.com/docs/instagram-basic-display-api/reference/media#fields
       fields = 'id,timestamp,permalink,caption,media_type,media_url,thumbnail_url,username'
-
-      request_url = "#{@api_url}/media?fields=#{fields}&access_token=IGQVJVa2ZAqUy16dzBncEs4bUFtU2FhendtVVJqYmtHSW9LbUNnWnlDUEIzeElQWUEwVTBBRWZA6TTBRMDFUclJCVXNxbUhYMkZAGazlvcFNMV3Y4ZA3RHVzhCYXdqNEczbEx1UnhXbkYzTGNHcERRTjRSYgZDZD"
+      api_url = 'https://graph.instagram.com/me'
+      access_token = 'IGQVJVa2ZAqUy16dzBncEs4bUFtU2FhendtVVJqYmtHSW9LbUNnWnlDUEIzeElQWUEwVTBBRWZA6TTBRMDFUclJCVXNxbUhYMkZAGazlvcFNMV3Y4ZA3RHVzhCYXdqNEczbEx1UnhXbkYzTGNHcERRTjRSYgZDZD'
+      request_url = "#{@api_url}/media?fields=#{fields}&access_token=#{@access_token}"
 
       if !@access_token or @access_token.empty?
         @logger.error("#{@logger_label} - `JEKYLLGRAM_TOKEN` is not set, please set this to your Instagram API access token.")
