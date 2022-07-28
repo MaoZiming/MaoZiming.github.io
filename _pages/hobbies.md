@@ -33,4 +33,8 @@ Dunhuang Desert, Nov 2019
 
 Chelsea, Vermont, July 2021
 
+![Neowise](/images/photos/Neowise.jpeg){: width="500", : style="float: left; margin: 10px"}
+
+New Haven, July 2020
+
 Would be down for any stargazing trips! :) 
