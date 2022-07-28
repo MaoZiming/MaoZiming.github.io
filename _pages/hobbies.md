@@ -32,3 +32,5 @@ Dunhuang Desert, Nov 2019
 ![Vermont 1](/images/photos/Vermont%202.jpeg){: width="500", : style="float: left; margin: 10px"}
 
 Chelsea, Vermont, July 2021
+
+Would be down for any stargazing trips! :) 
