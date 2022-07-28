@@ -11,7 +11,7 @@ My photos:
 ![Acadia National Park](/images/photos/Acadia.jpeg){: width="500", : style="float: left"}
 Acadia National Park, August 2021
 
-![Great Sand Dune](/images/photos/Catskill.jpeg){: width="500", : style="float: left"}
+![Great Sand Dune](/images/photos/Colorado.jpeg){: width="500", : style="float: left"}
 Great Sand Dunes National Park, May 2022
 
 ![Catskill Mountain](/images/photos/Catskill.jpeg){: width="500", : style="float: left"}
