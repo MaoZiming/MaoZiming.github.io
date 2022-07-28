@@ -4,7 +4,7 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-I also run an Instagram channel with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
+I run an Instagram channel with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
 My photos:
 
