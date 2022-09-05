@@ -1,9 +1,10 @@
 ---
-title: "Astrophotography"
+title: "Hobbies"
 permalink: /hobbies/
 author_profile: true
 ---
 
+# Astrophotography
 
 I run an Instagram account with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
@@ -38,3 +39,9 @@ Chelsea, Vermont, July 2021
 New Haven, July 2020
 
 Would be down for any stargazing trips! :) 
+
+# Badminton
+
+I started playing badminton when I was in China in primary 1 (lol, no kidding)
+
+Now just play for fun
