@@ -42,5 +42,4 @@ Would be down for any stargazing trips! :)
 
 ## Badminton
 
-I started playing badminton when I was in China in primary 1 (lol, no kidding)
-Now just play for fun
+Love playing badminton!
