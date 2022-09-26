@@ -6,7 +6,7 @@ author_profile: true
 
 ## Astrophotography
 
-I run an Instagram interest group with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
+I run an Instagram interest page with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
 My own photos [@ziming.astro](https://www.instagram.com/ziming.astro/):
 
