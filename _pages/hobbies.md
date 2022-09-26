@@ -6,9 +6,9 @@ author_profile: true
 
 ## Astrophotography
 
-I run an Instagram account with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
+I run an Instagram interest group with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
-My photos:
+My own photos [@ziming.astro](https://www.instagram.com/ziming.astro/):
 
 ![Acadia National Park](/images/photos/Acadia.jpeg){: width="500", : style="float: left; margin: 10px"}
 
