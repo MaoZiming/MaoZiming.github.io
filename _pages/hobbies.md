@@ -40,6 +40,3 @@ New Haven, July 2020
 
 Would be down for any stargazing trips! :) 
 
-## Badminton
-
-Love playing badminton!
