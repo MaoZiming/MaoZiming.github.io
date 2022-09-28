@@ -1,10 +1,8 @@
 ---
-title: "Hobbies"
-permalink: /hobbies/
+title: "Astrophotography"
+permalink: /astrophotography/
 author_profile: true
 ---
-
-## Astrophotography
 
 I run an Instagram interest page with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
