@@ -26,7 +26,7 @@ Chelsea, Vermont, July 2021
 
 ![Dunhuang Desert](/images/photos/Dunhuang.jpeg){: width="500", : style="float: left; margin: 10px"}
 
-Dunhuang Desert, Nov 2019
+Dunhuang Desert, Aug 2019
 
 ![Vermont 1](/images/photos/Vermont%202.jpeg){: width="500", : style="float: left; margin: 10px"}
 
