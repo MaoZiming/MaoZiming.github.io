@@ -8,6 +8,10 @@ I run an astronomy Instagram interest page with 400k+ followers~ [@the.astronomy
 
 My own photos [@ziming.astro](https://www.instagram.com/ziming.astro/):
 
+![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
+
+Adirondack Mountains, Oct 2022
+
 ![Acadia National Park](/images/photos/Acadia.jpeg){: width="500", : style="float: left; margin: 10px"}
 
 Acadia National Park, August 2021

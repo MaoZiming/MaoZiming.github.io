@@ -3,9 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Astrophotography"
     url: /astrophotography/
   
+  - title: "CV"
+    url: /cv/
