@@ -25,6 +25,7 @@ For Philosophy, I am mostly interested in logic (nonclassical/modal logic, compu
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
 \[2019.4\] Two papers accepted at Separation and Purification Technology
 ## Research
+Check out my publications: [[Google Scholar](https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en)]
 ### System
 
 * Learned Cache [In Submission]
