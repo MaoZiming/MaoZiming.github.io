@@ -13,8 +13,8 @@ a {text-decoration: none;}
 </style>
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-<a style="text-decoration:none" href="http://Example.Microsoft.Com">nonunderlinedhyperlink</a>
-Hey there! I am Ziming! I am a senior at Yale College, advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+
+Hey there! I am Ziming! I am a senior at Yale College, advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a> from Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
 I am broadly interested in systems:
 - Distributed systems
@@ -28,7 +28,7 @@ I am broadly interested in systems:
 **Yale College**, New Haven, *2019 - Current*\
 B.S. in Computer Science and B.A. in Philosophy
 ## Research
-Check out my publications: [[Google Scholar](https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en)]
+Check out my publications: [<a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en">Google Scholar</a>]
 ### Systems
 
 * Learned Cache [In Submission]
@@ -36,11 +36,11 @@ Check out my publications: [[Google Scholar](https://scholar.google.com/citation
   
 ### NLP / Machine Learning
 
-* _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[ACL'22](https://aclanthology.org/2022.acl-long.118/)]
-* _Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [[ACL'22](https://aclanthology.org/2022.acl-long.112/)]
-* _FeTaQA_: Free-form Table Question Answering [[TACL'22](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering)]
-* Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [[NAACL'22](https://aclanthology.org/2022.naacl-main.417/)]
+* _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/">ACL'22</a>]
+* _Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/">ACL'22</a>]
+* _FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering">TACL'22</a>]
+* Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/">NAACL'22</a>]
 
 ### Earlier Works
-* Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [[S&PT'19](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]
-* Spacer vibration for fouling control of submerged flat sheet membranes [[S&PT'19](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]
+* Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240">S&PT'19</a>]
+* Spacer vibration for fouling control of submerged flat sheet membranes [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968">S&PT'19</a>]
