@@ -10,7 +10,7 @@ My own photos [@ziming.astro](https://www.instagram.com/ziming.astro/):
 
 {% include instagram.html %}
 
-![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
+<!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
 Adirondack Mountains, Oct 2022
 
@@ -42,5 +42,5 @@ Chelsea, Vermont, July 2021
 
 New Haven, July 2020
 
-Would be down for any stargazing trips! :) 
+Would be down for any stargazing trips! :)  -->
 
