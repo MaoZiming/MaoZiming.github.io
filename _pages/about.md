@@ -20,14 +20,12 @@ For philosophy, I am mostly interested in logic (nonclassical / modal logic) and
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
 
-## News
+## Education
 
-\[2022.4\] One paper accepted at NAACL 2022!\
-\[2022.2\] _DYLE_ and _Summ<sup>N</sup>_ accepted at ACL 2022!\
-\[2021.5\] _FetaQA_ accepted at TACL 2022!\
-\[2019.9\] Started undergraduate study at Yale!\
-\[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
-\[2019.4\] Two papers accepted at Separation and Purification Technology
+**Yale College**, New Haven, *2019 - Current*\
+B.S. in Computer Science and B.A. in Philosophy
+
+**Hwa Chong Institution**, Singapore, *2015 - 2019*
 ## Research
 Check out my publications: [[Google Scholar](https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en)]
 ### System
