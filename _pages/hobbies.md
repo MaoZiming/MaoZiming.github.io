@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-I run an Instagram page with 400k+ followers: [<a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/">@the.astronomy.daily</a>].
+I run an Instagram page with 400k+ followers: [<a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>].
 
-Check out my photos at [<a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/">@ziming.astro</a>]:
+Check out my photos at [<a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>]:
 
 {% include instagram.html %}
 
