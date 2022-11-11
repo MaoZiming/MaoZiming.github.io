@@ -8,6 +8,8 @@ I run an astronomy Instagram interest page with 400k+ followers~ [@the.astronomy
 
 My own photos [@ziming.astro](https://www.instagram.com/ziming.astro/):
 
+\{\% include instagram.html \%\}
+
 ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
 Adirondack Mountains, Oct 2022
