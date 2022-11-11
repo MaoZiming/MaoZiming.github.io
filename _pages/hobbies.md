@@ -7,9 +7,9 @@ author_profile: true
 
 I run an astronomy Instagram interest page with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
 
-{% include instagram.html %}
-
 Check out my photos at [@ziming.astro](https://www.instagram.com/ziming.astro/):
+
+{% include instagram.html %}
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
