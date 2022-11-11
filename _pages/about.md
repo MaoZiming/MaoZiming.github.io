@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "About me" 
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 I am Ziming! I am a senior at Yale College. I am advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
 I am broadly interested in systems:
