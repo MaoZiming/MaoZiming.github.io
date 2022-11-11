@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-I run an astronomy Instagram interest page with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
+I run an astronomy Instagram interest page with 400k+ followers: [<a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/">@the.astronomy.daily</a>].
 
-Check out my photos at [@ziming.astro](https://www.instagram.com/ziming.astro/):
+Check out my photos at [<a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/">@ziming.astro</a>]:
 
 {% include instagram.html %}
 
