@@ -6,5 +6,5 @@ main:
   - title: "Astrophotography"
     url: /astrophotography/
   
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/

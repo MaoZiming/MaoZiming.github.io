@@ -28,7 +28,7 @@ I am broadly interested in systems:
 **Yale College**, New Haven, *2019 - Current*\
 B.S. in Computer Science and B.A. in Philosophy
 ## Research
-Check out my publications: [<a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en">Google Scholar</a>]
+Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view?usp=sharing">CV</a>]
 ### Systems
 
 * Learned Cache [In Submission]
