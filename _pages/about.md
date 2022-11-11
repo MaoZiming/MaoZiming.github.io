@@ -14,7 +14,7 @@ a {text-decoration: none;}
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-Hey there! I am Ziming! I am a senior at Yale College, advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a> from Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+Hey, I am Ziming! I am a senior at Yale College, advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/">Prof. Dragomir Radev</a> from Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/">Prof. Rashmi Vinayak</a> from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
 I am broadly interested in systems:
 - Distributed systems
