@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+a {text-decoration: none;}
+</style>
+
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 Hey there! I am Ziming! I am a senior at Yale College, advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
