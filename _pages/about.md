@@ -11,9 +11,9 @@ redirect_from:
 I am Ziming! I am a senior at Yale College. I am advised by [Prof. Anurag Khandelwal](https://www.anuragkhandelwal.com/), [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev/) from Yale, and [Prof. Rashmi Vinayak](http://www.cs.cmu.edu/~rvinayak/) from CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
 I am broadly interested in systems:
-* Distributed systems
-* Intersection of theory and systems
-* Big Data and ML systems
+- Distributed systems
+- Intersection of theory and systems
+- Storage, Big Data and ML systems
   
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
 
@@ -23,7 +23,7 @@ I am broadly interested in systems:
 B.S. in Computer Science and B.A. in Philosophy
 ## Research
 Check out my publications: [[Google Scholar](https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en)]
-### System
+### Systems
 
 * Learned Cache [In Submission]
 * Multi-attribute Data Store [In Submission]
