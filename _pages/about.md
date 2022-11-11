@@ -37,10 +37,10 @@ Check out my publications: [[Google Scholar](https://scholar.google.com/citation
   
 ### NLP / Machine Learning
 
-* _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[ACL'22](https://arxiv.org/abs/2110.08168)]
-* _Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [[ACL'22](https://arxiv.org/abs/2110.10150)]
+* _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [[ACL'22](https://aclanthology.org/2022.acl-long.118/)]
+* _Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [[ACL'22](https://aclanthology.org/2022.acl-long.112/)]
 * _FeTaQA_: Free-form Table Question Answering [[TACL'22](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering)]
-* Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [[NAACL'22](https://arxiv.org/abs/2109.09195)]
+* Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [[NAACL'22](https://aclanthology.org/2022.naacl-main.417/)]
 
 ### Earlier Works
 * Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [[S&PT'19](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]
