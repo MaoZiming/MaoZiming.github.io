@@ -9,6 +9,8 @@ I run an Instagram page with 400k+ followers: [<a style="text-decoration:none" h
 
 Check out my photos at [<a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>]:
 
+Will be down for any stargazing trips :)
+
 {% include instagram.html %}
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
