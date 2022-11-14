@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ziming Mao"
 title_separator          : "-"
-name                     : &name "Ziming Mao (毛子鸣）"
+name                     : &name "Ziming Mao"
 description              : &description "Undergraduate Student at Yale college, LILY Lab, Computer Systems Lab (Yale), TheSys Lab (CMU)"
 url                      : https://MaoZiming.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
