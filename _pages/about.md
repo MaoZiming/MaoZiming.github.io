@@ -25,7 +25,7 @@ I am broadly interested in distributed systems, storage systems, ML systems, and
 **Yale College**, New Haven, *2019 - Current*\
 B.S. in Computer Science and B.A. in Philosophy
 ## Research
-Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view?usp=sharing" target="_blank">CV</a>]
+Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1l0p2vYgrcElxN2TwYzGn5ypoZzH99_WB/view?usp=sharing" target="_blank">CV</a>]
 ### Systems
 
 * Learned Cache [In Submission]
