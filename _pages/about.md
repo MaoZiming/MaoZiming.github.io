@@ -16,7 +16,7 @@ a {text-decoration: none;}
 
 Hey, I am Ziming! I am a senior at Yale College, advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
-I am broadly interested in distributed systems, storage systems, ML systems, and intersection of theory and systems.
+I am broadly interested in computer systems.
   
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
 
@@ -25,19 +25,36 @@ I am broadly interested in distributed systems, storage systems, ML systems, and
 **Yale College**, New Haven, *2019 - Current*\
 B.S. in Computer Science and B.A. in Philosophy
 ## Research
-Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view" target="_blank">CV</a>]
+<!-- Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view" target="_blank">CV</a>] -->
 ### Systems
 
-* Learned Cache [In Submission]
-* Multi-attribute Data Store [In Submission]
+Multi-attribute Data Store [In Submission]
+
+Learned Cache [In Submission]
   
 ### NLP / Machine Learning
 
-* _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">ACL'22</a>]
-* _Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">ACL'22</a>]
-* _FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering" target="_blank">TACL'22</a>]
-* Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">NAACL'22</a>]
+_DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>]\
+**Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
+ACL 2022
+
+_Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>]\
+Yusen Zhang, Ansong Ni, **Ziming Mao**, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang\
+ACL 2022
+
+_FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering" target="_blank">Paper</a>]\
+Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
+TACL 2021
+
+Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]\
+Xiangru Tang, Alexander R. Fabbri, **Ziming Mao**, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev\
+NAACL 2022
 
 ### Earlier Works
-* Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">S&PT'19</a>]
-* Spacer vibration for fouling control of submerged flat sheet membranes [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">S&PT'19</a>]
+Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">Paper</a>]\
+Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
+Separation and Purification Technology, 2019 
+
+Spacer vibration for fouling control of submerged flat sheet membranes [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]\
+Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
+Separation and Purification Technology, 2019 
