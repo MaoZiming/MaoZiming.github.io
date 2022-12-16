@@ -30,11 +30,11 @@ B.S. in Computer Science and B.A. in Philosophy
 # Research
 ## Systems
 
-*Trinity*: A Fast and Space-efficient Multi-attribute Data Store.\
+*Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 In Submission
 
-*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching.\
+*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 To appear: File and Storage Technologies (FAST) 2023
   
