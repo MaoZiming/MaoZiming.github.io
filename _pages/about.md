@@ -38,15 +38,15 @@ To appear: File and Storage Technologies (FAST) 2023
   
 ## NLP / Machine Learning
 
-_DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>]\
+_DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 Association for Computational Linguistics (ACL) 2022
 
-_Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>]\
+_Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/psunlpgroup/Summ-N" target="_blank">Code</a>]\
 Yusen Zhang, Ansong Ni, **Ziming Mao**, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang\
 Association for Computational Linguistics (ACL) 2022
 
-_FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering" target="_blank">Paper</a>]\
+_FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/FeTaQA" target="_blank">Code</a>]\
 Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
 Transactions of the Association for Computational Linguistics (TACL) 2022.
 
