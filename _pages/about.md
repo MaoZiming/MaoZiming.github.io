@@ -20,13 +20,13 @@ I am broadly interested in computer systems.
   
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
 
-## Education
+# Education
 
 **Yale College**, New Haven, 2019 - 2023\
 B.S. in Computer Science and B.A. in Philosophy
-## Research
+# Research
 <!-- Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view" target="_blank">CV</a>] -->
-### Systems
+## Systems
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store.\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
@@ -36,7 +36,7 @@ In Submission
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 To appear: File and Storage Technologies (FAST) 2023
   
-### NLP / Machine Learning
+## NLP / Machine Learning
 
 _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>]\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
@@ -54,7 +54,7 @@ Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of 
 Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev\
 North American Chapter of the Association for Computational Linguistics (NAACL) 2022
 
-### Earlier Works
+## Earlier Works
 Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">Paper</a>]\
 Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
 Separation and Purification Technology, 2019
