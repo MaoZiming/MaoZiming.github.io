@@ -25,7 +25,7 @@ I am broadly interested in computer systems.
 **Yale College**, New Haven, 2019 - 2023\
 B.S. in Computer Science and B.A. in Philosophy
 
-**Hwa Chong Institution**, Singapore, 2014 - 2019\
+**Hwa Chong Institution**, Singapore, 2014 - 2019
 # Research
 <!-- Check out my publications: [<a style="text-decoration:none" href="https://drive.google.com/file/d/1g0FdjcEihi2zE5SLJlZ4icf4aDGHyPDh/view" target="_blank">CV</a>] -->
 ## Systems
