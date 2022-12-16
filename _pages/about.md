@@ -51,7 +51,7 @@ Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zh
 Transactions of the Association for Computational Linguistics (TACL) 2022.
 
 Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]\
-Xiangru Tang, Alexander R. Fabbri, **Ziming Mao**, Griffin Adams, Borui Wang, Haoran Li, Yashar Mehdad, Dragomir Radev\
+Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev\
 North American Chapter of the Association for Computational Linguistics (NAACL) 2022
 
 ### Earlier Works
