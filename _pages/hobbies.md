@@ -29,8 +29,6 @@ Let me know if you are also into astro/stargazing/photography :)
 
 See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
-<img src="https://i.pinimg.com/originals/4b/5b/98/4b5b984999cdd2c9eac2195570d85df5.gif" alt="drawing" width="300"/>
-
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
 Adirondack Mountains, Oct 2022
