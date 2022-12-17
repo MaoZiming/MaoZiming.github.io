@@ -7,7 +7,7 @@ author_profile: true
 
 I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>
 
-## Stargazing Trips
+## Stargazing and Astrophotography
 
 \[2022.10\] Adirondack Mountains, New York\
 \[2022.5\] Great Sand Dunes National Park, Colorado\
@@ -18,7 +18,8 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2019.5\] Hokkaido, Japan\
 \[2019.4\] Dunhuang Desert, China\
 \[2019.2\] Dongji Island, China\
-\[2018.6\] Batam, Indonesia
+\[2018.6\] Batam, Indonesia\
+\[2016-2018\] <a style="text-decoration:none" href="https://www.instagram.com/hc_astro/?hl=en" target="_blank">HCAstro</a>, Singapore
 
 Let me know if you are also into astro/stargazing/photography :)
 
