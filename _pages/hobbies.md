@@ -7,7 +7,7 @@ author_profile: true
 
 I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>
 
-## Places I have been to for astrophotography
+## Stargazing Trips
 
 \[2022.10\] Adirondack Mountains, New York\
 \[2022.5\] Great Sand Dunes National Park, Colorado\
@@ -20,13 +20,13 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2019.2\] Dongji Island, China\
 \[2018.6\] Batam, Indonesia
 
-Will be down for any stargazing trips :)
+Let me know if you are also into astro/stargazing/photography :)
 
 ## Photos
 
 {% include instagram.html %}
 
-See more of my own photos: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
+See more of my own photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
