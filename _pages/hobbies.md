@@ -5,13 +5,26 @@ author_profile: true
 ---
 
 
-I run an Instagram page with 400k+ followers: [<a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>].
+I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>
 
+## Places I have been to for astrophotography
+
+\[2022.10\] Adirondack Mountains, New York\
+\[2022.5\] Great Sand Dunes National Park, Colorado\
+\[2021.9\] Chelsea, Vermont\
+\[2021.8\] Acadia National Park, Maine\
+\[2021.1\] Block Island, Rhode Island\
+\[2019.11\] Catskill Mountain, New York\
+\[2019.5\] Hokkaido, Japan\
+\[2019.4\] Dunhuang Desert, China\
+\[2019.2\] Dongji Island, China\
+\[2018.6\] Batam, Indonesia
 
 Will be down for any stargazing trips :)
 
-{% include instagram.html %}
+## Photos
 
+{% include instagram.html %}
 
 See more of my own photos: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
