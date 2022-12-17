@@ -27,7 +27,7 @@ Let me know if you are also into astro/stargazing/photography :)
 
 {% include instagram.html %}
 
-See more of my own photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
+See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
