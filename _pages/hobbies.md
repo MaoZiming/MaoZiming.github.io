@@ -7,11 +7,12 @@ author_profile: true
 
 I run an Instagram page with 400k+ followers: [<a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>].
 
-Check out my photos at [<a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>]:
 
 Will be down for any stargazing trips :)
 
 {% include instagram.html %}
+
+My own photos: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
