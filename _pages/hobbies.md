@@ -7,7 +7,7 @@ author_profile: true
 
 I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>
 
-## Stargazing and Astrophotography
+## Stargazing trips
 
 \[2022.10\] Adirondack Mountains, New York\
 \[2022.5\] Great Sand Dunes National Park, Colorado\
