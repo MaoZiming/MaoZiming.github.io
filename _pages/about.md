@@ -27,6 +27,17 @@ B.S. in Computer Science and B.A. in Philosophy
 
 **Hwa Chong Institution**, Singapore, 2014 - 2019
 
+## News
+
+\[2022.12\] Awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a>!\
+\[2022.12\] GL-Cache accepted at FAST 2023!\
+\[2022.4\] One paper accepted at NAACL 2022!\
+\[2022.2\] _DYLE_ and _Summ<sup>N</sup>_ accepted at ACL 2022!\
+\[2021.5\] _FetaQA_ accepted at TACL 2022!\
+\[2019.9\] Started undergraduate study at Yale!\
+\[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
+\[2019.4\] Two papers accepted at Separation and Purification Technology
+
 # Research
 ## Systems
 
