@@ -47,7 +47,7 @@ In Submission
 
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
-To appear: FAST 2023
+FAST 2023
   
 ## NLP / Machine Learning
 
