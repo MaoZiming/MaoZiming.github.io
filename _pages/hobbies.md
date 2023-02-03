@@ -7,7 +7,7 @@ author_profile: true
 
 I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>
 
-The main goal is to share and promote works from amateur astrophotographers around the world.
+My goal is to share and promote works from amateur astrophotographers around the world.
 
 ## Stargazing Trips
 
