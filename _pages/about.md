@@ -35,7 +35,7 @@ I am broadly interested in networked systems and machine learning systems.
 
 # Research
 
-For full list, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+For full list, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 ## Selected Projects
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
