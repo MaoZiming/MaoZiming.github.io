@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include publication.html %}
+
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 FAST 2023
