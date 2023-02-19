@@ -49,11 +49,9 @@ _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 <span style="color:green; font-style:italic">ACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]
 
-<hr>
 For full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
-<hr>
 
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore for secondary and high school.
-* I play badminton regularly, and occasionally do <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/" target="_blank">astrophotography</a>. 
+* I play badminton regularly, and enjoy <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/" target="_blank"> stargazing and astrophotography</a>. 
 * I also majored in philosophy, mostly interested in logics and philosophy of language.
