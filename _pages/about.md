@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me" 
+title: "About" 
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ Hey, I am Ziming! I am a senior at Yale College, double major in Computer Scienc
 
 I am advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. I was awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up.
 
-## Research Interests
+## Research
 
 I am broadly interested in networked systems and machine learning systems.
   
@@ -33,9 +33,8 @@ I am broadly interested in networked systems and machine learning systems.
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
 \[2019.4\] Two papers accepted at Separation and Purification Technology -->
 
-# Research
 
-For full list, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+For full list of publications, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 ## Selected Projects
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
@@ -51,5 +50,9 @@ _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]
+
+## Hobbies
+
+[<a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/" target="_blank">Astrophotography</a>] and Badminton.
 
 <!-- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/> -->
