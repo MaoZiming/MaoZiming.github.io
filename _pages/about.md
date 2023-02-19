@@ -47,7 +47,7 @@ Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 FAST 2023\
 [<a style="text-decoration:none" href="https://www.pdl.cmu.edu/PDL-FTP/BigLearning/2023_FAST_GL_Cache.pdf" target="_blank">Paper</a>]
 
-_DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization
+_DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]
