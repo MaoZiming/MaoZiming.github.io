@@ -4,8 +4,7 @@ permalink: /astrophotography/
 author_profile: true
 ---
 
-
-I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>. My goal is to share and promote works from amateur astrophotographers around the world.
+I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a>. My goal is to share and promote works from amateur astrophotographers around the world. Let me know if you are also into astro/stargazing/photography :)
 
 ## Stargazing Trips
 
@@ -20,8 +19,6 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2019.2\] Dongji Island, China\
 \[2018.6\] Batam, Indonesia\
 \[2016-2018\] <a style="text-decoration:none" href="https://www.instagram.com/hc_astro/?hl=en" target="_blank">HCAstro</a>, Singapore
-
-Let me know if you are also into astro/stargazing/photography :)
 
 ## Photos
 
