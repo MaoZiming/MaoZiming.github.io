@@ -14,17 +14,10 @@ a {text-decoration: none;}
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-Hey, I am Ziming! I am a senior at Yale College, advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+Hey, I am Ziming! I am a senior at Yale College, double major in Computer Science and Philosophy. I am advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
 
-I am broadly interested in systems.
+I am broadly interested in networked systems and machine learning systems.
   
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
-
-# Education
-
-**Yale College**, New Haven, 2019 - 2023\
-B.S. in Computer Science and B.A. in Philosophy
-
 ## News
 
 \[2022.12\] Awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up!\
@@ -52,3 +45,5 @@ FAST 2023
 _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/>
