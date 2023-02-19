@@ -14,11 +14,13 @@ a {text-decoration: none;}
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-Hey, I am Ziming! I am a senior at Yale College, double major in Computer Science and Philosophy. I am advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter.
+Hey, I am Ziming! I am a senior at Yale College, double major in Computer Science and Philosophy. 
+
+I am advised by <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Prof. Anurag Khandelwal</a>, <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank">Prof. Dragomir Radev</a> at Yale, and <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Prof. Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. I was awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up.
 
 I am broadly interested in networked systems and machine learning systems.
   
-## News
+<!-- ## News
 
 \[2022.12\] Awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up!\
 \[2022.12\] *GL-Cache* accepted at FAST 2023!\
@@ -27,7 +29,7 @@ I am broadly interested in networked systems and machine learning systems.
 \[2021.5\] _FetaQA_ accepted at TACL 2022!\
 \[2019.9\] Started undergraduate study at Yale!\
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
-\[2019.4\] Two papers accepted at Separation and Purification Technology
+\[2019.4\] Two papers accepted at Separation and Purification Technology -->
 
 # Research
 
