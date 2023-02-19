@@ -25,8 +25,6 @@ I am broadly interested in systems.
 **Yale College**, New Haven, 2019 - 2023\
 B.S. in Computer Science and B.A. in Philosophy
 
-**Hwa Chong Institution**, Singapore, 2014 - 2019
-
 ## News
 
 \[2022.12\] Awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up!\
@@ -39,39 +37,18 @@ B.S. in Computer Science and B.A. in Philosophy
 \[2019.4\] Two papers accepted at Separation and Purification Technology
 
 # Research
-## Systems
+
+For full list, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+## Selected Projects
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 In Submission
 
-*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
+*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching [<a style="text-decoration:none" href="https://www.pdl.cmu.edu/PDL-FTP/BigLearning/2023_FAST_GL_Cache.pdf" target="_blank">Paper</a>]\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 FAST 2023
   
-## NLP / Machine Learning
-
 _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022
-
-_Summ<sup>N</sup>_: A Multi-Stage Summarization Framework for Long Input Dialogues and Documents [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/psunlpgroup/Summ-N" target="_blank">Code</a>]\
-Yusen Zhang, Ansong Ni, **Ziming Mao**, Chen Henry Wu, Chenguang Zhu, Budhaditya Deb, Ahmed Hassan Awadallah, Dragomir R. Radev, Rui Zhang\
-ACL 2022
-
-_FeTaQA_: Free-form Table Question Answering [<a style="text-decoration:none" href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00446/109273/FeTaQA-Free-form-Table-Question-Answering" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/FeTaQA" target="_blank">Code</a>]\
-Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
-TACL 2022
-
-Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]\
-Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev\
-NAACL 2022
-
-## Earlier Works
-Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">Paper</a>]\
-Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
-Separation and Purification Technology, 2019
-
-Spacer vibration for fouling control of submerged flat sheet membranes [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]\
-Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
-Separation and Purification Technology, 2019 
