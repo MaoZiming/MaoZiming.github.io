@@ -49,4 +49,6 @@ _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 <span style="color:green; font-style:italic">ACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]
 
+<hr>
 For full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+<hr>
