@@ -42,7 +42,7 @@ For full list, please see <a style="text-decoration:none" href="https://www.sema
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 In Submission
 
-*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching
+*GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 FAST 2023\
 [<a style="text-decoration:none" href="https://www.pdl.cmu.edu/PDL-FTP/BigLearning/2023_FAST_GL_Cache.pdf" target="_blank">Paper</a>]
