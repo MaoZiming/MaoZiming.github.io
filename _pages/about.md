@@ -34,8 +34,6 @@ I am broadly interested in networked systems and machine learning systems.
 \[2019.4\] Two papers accepted at Separation and Purification Technology -->
 
 # Research
-
-For full list, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>
 ## Selected Projects
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
@@ -49,5 +47,11 @@ FAST 2023
 _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 ACL 2022
+
+## Full List
+
+Alternatively, please see <a style="text-decoration:none" href="https://www.semanticscholar.org/author/Ziming-Mao/28937762" target="_blank">Semantic Scholar</a> or <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+
+{% include publication.html %}
 
 <!-- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/> -->
