@@ -18,7 +18,6 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2019.4\] Dunhuang Desert, China\
 \[2019.2\] Dongji Island, China\
 \[2018.6\] Batam, Indonesia\
-\[2016-2018\] <a style="text-decoration:none" href="https://www.instagram.com/hc_astro/?hl=en" target="_blank">HCAstro</a>, Singapore
 
 <!-- ## Photos -->
 
