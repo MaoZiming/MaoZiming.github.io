@@ -52,6 +52,6 @@ _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ## Miscellaneous
-* I grew up in Ningbo, China and studied in Singapore for secondary and high school.
+* I grew up in Ningbo, China and studied in Singapore at <a style="text-decoration:none" href="https://en.wikipedia.org/wiki/Hwa_Chong_Institution" target="_blank">Hwa Chong Institution</a>.
 * I play badminton regularly, and sometimes go for <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing and astrophotography</a>. 
 * As a philosophy major, I am mostly interested in logics and philosophy of language.
