@@ -54,4 +54,4 @@ For a full list of publications, please see <a style="text-decoration:none" href
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore for secondary and high school.
 * I play badminton regularly, and enjoy <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing and astrophotography</a>. 
-* As also a philosophy major, I am mostly interested in logics and philosophy of language.
+* As a philosophy major, I am mostly interested in logics and philosophy of language.
