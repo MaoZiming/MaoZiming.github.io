@@ -20,7 +20,7 @@ I am advised by <a style="text-decoration:none" href="https://www.anuragkhandelw
 
 ## Research
 
-I am broadly interested in networked systems and machine learning systems.
+I am broadly interested in distributed systems, computer networks, and ML systems.
   
 <!-- ## News
 
