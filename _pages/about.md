@@ -20,7 +20,7 @@ I am advised by Prof. <a style="text-decoration:none" href="https://www.anuragkh
 
 ## Research
 
-I am broadly interested in computer systems and networking.
+I am broadly interested in computer systems and networks.
   
 <!-- ## News
 
