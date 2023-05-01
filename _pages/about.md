@@ -53,5 +53,5 @@ For a full list of publications, please see <a style="text-decoration:none" href
 
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at Hwa Chong Institution.
-* I play badminton regularly, and sometimes go for <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing and astrophotography</a>. 
-* As a philosophy major, I am mostly interested in logics and philosophy of language.
+* I play badminton regularly, and enjoy <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing and astrophotography</a>. 
+* As a philosophy double major, I am mostly interested in logics and philosophy of language.
