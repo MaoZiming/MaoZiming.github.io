@@ -7,7 +7,7 @@
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
-<span style="color:green; font-style:italic">In Submission</span>\
+<span style="color:green; font-style:italic">In Submission</span>
 {% endif %}
 
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
