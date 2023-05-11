@@ -33,12 +33,12 @@ Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui 
 
 Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers\
 Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
-<span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>
+<span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
 [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">Paper</a>]
 
 Spacer vibration for fouling control of submerged flat sheet membranes\
 Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
-<span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>
+<span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
 [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]
 
 {% else %}
