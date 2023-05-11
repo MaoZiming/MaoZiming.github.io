@@ -1,6 +1,8 @@
+{% if not include.full %}
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 In Submission
+{% endif %}
 
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
@@ -26,15 +28,17 @@ Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zh
 Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries\
 Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev\
 <span style="color:green; font-style:italic">NAACL 2022</span>\
-[<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/FeTaQA" target="_blank">Code</a>]
+[<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]
 
 Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers\
 Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
 <span style="color:green; font-style:italic">Separation and Purification Technology, 2019</span>
+[<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618333240" target="_blank">Paper</a>]
 
 Spacer vibration for fouling control of submerged flat sheet membranes\
 Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
 <span style="color:green; font-style:italic">Separation and Purification Technology, 2019</span>
+[<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]
 
 {% else %}
 
