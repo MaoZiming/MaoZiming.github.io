@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include research.md full=True %}
+{% include research.md full='True' %}
 
 <!-- 
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
