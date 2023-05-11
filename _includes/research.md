@@ -1,5 +1,9 @@
 {% if include.full %}
 {% else %}
+
+*Spirit*: Performance Isolation and Fairness for Disaggregated Rack-scale Memory\
+[<a style="text-decoration:none" href="https://drive.google.com/file/d/13NVi7ettnjOCVQH4UBmkUKSChLnE30lh/view?usp=share_link" target="_blank">Poster</a>]
+
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 In Submission
