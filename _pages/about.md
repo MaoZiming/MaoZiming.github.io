@@ -39,5 +39,5 @@ I am broadly interested in computer systems and networks. -->
 
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at Hwa Chong Institution.
-* I play badminton regularly, and enjoy <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing and astrophotography</a>. 
 * As a philosophy double major, I am mostly interested in logics and philosophy of language.
+* I will be down for any <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing</a> trips 🌌
