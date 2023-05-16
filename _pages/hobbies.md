@@ -22,7 +22,7 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 
 <!-- ## Photos -->
 
-<!-- {% include instagram.html %} -->
+{% include instagram.html %}
 
 See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/zimingmao/" target="_blank">@zimingmao</a>
 
