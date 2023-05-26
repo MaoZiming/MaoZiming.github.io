@@ -14,7 +14,7 @@ a {text-decoration: none;}
 
 <!-- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-Hey, I am Ziming! I am a fourth-year undergraduate student at Yale University, double major in Computer Science and Philosophy. I will be joining UC Berkeley for my PhD working with Prof. <a style="text-decoration:none" href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Ion Stoica</a> and Prof. <a style="text-decoration:none" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/shenker.html" target="_blank">Scott Shenker</a>.
+Hey, I am Ziming! I just graduated from Yale University, with distinctions in both Computer Science and Philosophy. I will be joining UC Berkeley for my PhD working with Prof. <a style="text-decoration:none" href="https://people.eecs.berkeley.edu/~istoica/" target="_blank">Ion Stoica</a> and Prof. <a style="text-decoration:none" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/shenker.html" target="_blank">Scott Shenker</a>.
 
 I am advised by Prof. <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Anurag Khandelwal</a>, Prof. <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank"> Dragomir Radev</a> at Yale, and Prof. <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. I was awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up.
  
@@ -39,5 +39,5 @@ I am broadly interested in computer systems and networks. -->
 
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at Hwa Chong Institution.
-* As a philosophy double major, I am mostly interested in logics and philosophy of language.
+* For philosophy, I am mostly interested in logics and philosophy of language.
 * I will be down for any <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing</a> trips :）
