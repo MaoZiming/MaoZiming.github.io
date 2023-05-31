@@ -8,6 +8,7 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 
 ## Stargazing Trips
 
+\[2023.5\] Cherry Springs State Park, Pennsylvania\
 \[2022.10\] Adirondack Mountains, New York\
 \[2022.5\] Great Sand Dunes National Park, Colorado\
 \[2021.9\] Chelsea, Vermont\
@@ -24,7 +25,7 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 
 {% include instagram.html %}
 
-<!-- See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a> -->
+See more of my photos at: <a style="text-decoration:none color:green; font-style:italic" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
 
 <!-- ![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="500", : style="float: left; margin: 10px"}
 
