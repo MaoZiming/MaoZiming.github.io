@@ -18,7 +18,7 @@ Hey, I am Ziming! I just graduated from Yale University, with distinctions in bo
 
 I am advised by Prof. <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Anurag Khandelwal</a>, Prof. <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank"> Dragomir Radev</a> at Yale, and Prof. <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. I was awarded 2023 <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> Runner-Up.
 
-I am broadly interested in <span style="color:green; font-style:italic">Computer Systems and Networks</span>, and their intersection with <span style="color:green; font-style:italic">Machine Learning</span>. 
+I am broadly interested in <span style="color:green; font-style:italic">Computer Systems and Networks</span>, and their intersections with <span style="color:green; font-style:italic">Machine Learning</span>. 
 
 <!--## Research
 
