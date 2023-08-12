@@ -39,6 +39,9 @@ I am broadly interested in computer systems and networks. -->
 
 {% include research.md %}
 
+For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+
+
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at <a style="text-decoration:none" href="https://en.wikipedia.org/wiki/Hwa_Chong_Institution" target="_blank"> Hwa Chong Institution</a>.
 * For philosophy, I am mostly interested in logics and philosophy of language.

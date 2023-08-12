@@ -6,10 +6,6 @@ Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 {% if include.full %}
 {% else %}
 
-<!-- *Spirit*: Performance Isolation and Fairness for Disaggregated Rack-scale Memory\ -->
-<!-- <span style="color:green; font-style:italic">Ongoing</span>\ -->
-<!-- [<a style="text-decoration:none" href="https://drive.google.com/file/d/13NVi7ettnjOCVQH4UBmkUKSChLnE30lh/view?usp=share_link" target="_blank">Poster</a>] -->
-
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 <span style="color:green; font-style:italic">In Submission</span>
@@ -47,9 +43,5 @@ Spacer vibration for fouling control of submerged flat sheet membranes\
 Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
 <span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
 [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]
-
-{% else %}
-
-For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 {% endif %}
