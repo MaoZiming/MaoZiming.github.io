@@ -1,6 +1,6 @@
 ---
-title: "Stargazing"
-permalink: /stargazing/
+title: "Astrophotography"
+permalink: /astrophotography/
 author_profile: true
 ---
 
