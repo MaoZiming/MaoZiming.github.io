@@ -21,37 +21,37 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2018.6\] Batam, Indonesia\
 \[2016-2018\] <a style="text-decoration:none" href="https://www.instagram.com/hc_astro/?hl=en" target="_blank">HCAstro</a>, Singapore -->
 
-![Cherry Springs State Park](/images/photos/cherry_spring.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Cherry Springs State Park](/images/photos/cherry_spring.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Cherry Springs State Park, Pennsylvania, May 2023
 
-![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Adirondack Mountains](/images/photos/Adirondacks.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Adirondack Mountains, New York, Oct 2022
 
-![Great Sand Dune](/images/photos/Colorado.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Great Sand Dune](/images/photos/Colorado.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Great Sand Dunes National Park, May 2022
 
-![Acadia National Park](/images/photos/Acadia.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Acadia National Park](/images/photos/Acadia.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Acadia National Park, August 2021
 
-![Vermont 2](/images/photos/Vermont.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Vermont 2](/images/photos/Vermont.jpeg){: width="400", : style="float: left; margin: 5px"}
 
-![Vermont 1](/images/photos/Vermont%202.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Vermont 1](/images/photos/Vermont%202.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Chelsea, Vermont, July 2021
 
-![Neowise](/images/photos/Neowise.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Neowise](/images/photos/Neowise.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 New Haven, July 2020
 
-![Catskill Mountain](/images/photos/Catskill.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Catskill Mountain](/images/photos/Catskill.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Catskill Mountain, Nov 2019
 
-![Dunhuang Desert](/images/photos/Dunhuang.jpeg){: width="600", : style="float: left; margin: 5px"}
+![Dunhuang Desert](/images/photos/Dunhuang.jpeg){: width="400", : style="float: left; margin: 5px"}
 
 Dunhuang Desert, Aug 2019
 
