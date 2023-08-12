@@ -21,7 +21,7 @@ I run an Instagram page with 400k+ followers: <a style="text-decoration:none" hr
 \[2018.6\] Batam, Indonesia\
 \[2016-2018\] <a style="text-decoration:none" href="https://www.instagram.com/hc_astro/?hl=en" target="_blank">HCAstro</a>, Singapore -->
 
-![Cherry Springs State Park](/images/photos/cherry_spring.jpeg){: height="200", : style="float: left; margin: 10px"}
+![Cherry Springs State Park](/images/photos/cherry_spring.jpeg){: height="200", : style="float: left; margin: 5px"}
 
 Cherry Springs State Park, Pennsylvania, May 2023
 
