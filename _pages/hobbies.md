@@ -57,4 +57,4 @@ Chelsea, Vermont, July 2021
 
 New Haven, July 2020
 
-See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a>
+<!-- See more of my photos at: <a style="text-decoration:none" href="https://www.instagram.com/ziming.astro/" target="_blank">@ziming.astro</a> -->
