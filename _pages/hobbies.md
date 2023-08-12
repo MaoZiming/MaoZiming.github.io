@@ -1,12 +1,12 @@
 ---
-title: "Astrophotography"
-permalink: /astrophotography/
+title: "Stargazing"
+permalink: /stargazing/
 author_profile: true
 ---
 
 I run an Instagram page with 400k+ followers: <a style="text-decoration:none" href="https://www.instagram.com/the.astronomy.daily/" target="_blank">@the.astronomy.daily</a> to share works from amateur astrophotographers
 
-## Stargazing Trips
+## Trips
 
 <!-- \[2023.5\] Cherry Springs State Park, Pennsylvania\
 \[2022.10\] Adirondack Mountains, New York\
