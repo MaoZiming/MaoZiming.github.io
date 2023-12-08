@@ -26,8 +26,6 @@ Yusen Zhang, Ansong Ni, **Ziming Mao**, Chen Henry Wu, Chenguang Zhu, Budhaditya
 <span style="color:green; font-style:italic">ACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/psunlpgroup/Summ-N" target="_blank">Code</a>]
 
-{% if include.full %}
-
 _FeTaQA_: Free-form Table Question Answering\
 Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
 <span style="color:green; font-style:italic">TACL 2022</span>\
@@ -47,5 +45,7 @@ Spacer vibration for fouling control of submerged flat sheet membranes\
 Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
 <span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
 [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]
+
+{% if include.full %}
 
 {% endif %}
