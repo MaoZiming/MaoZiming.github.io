@@ -45,4 +45,5 @@ For a full list of publications, please see <a style="text-decoration:none" href
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at <a style="text-decoration:none" href="https://en.wikipedia.org/wiki/Hwa_Chong_Institution" target="_blank"> Hwa Chong Institution</a>.
 * For philosophy, I am mostly interested in logics and philosophy of language.
-* I will be down for any <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing</a> trips :）
+* I love playing badminton! 🏸
+* I will be down for any <a style="text-decoration:none" href="https://maoziming.github.io/astrophotography/"> stargazing</a> trips 🔭 :）
