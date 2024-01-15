@@ -26,8 +26,6 @@ Yusen Zhang, Ansong Ni, **Ziming Mao**, Chen Henry Wu, Chenguang Zhu, Budhaditya
 <span style="color:green; font-style:italic">ACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.112/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/psunlpgroup/Summ-N" target="_blank">Code</a>]
 
-{% if include.full %}
-
 _FeTaQA_: Free-form Table Question Answering\
 Linyong Nan, Chiachun Hsieh, **Ziming Mao**, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Nick Schoelkopf, Riley Kong, Xiangru Tang, Murori Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev\
 <span style="color:green; font-style:italic">TACL 2022</span>\
@@ -37,6 +35,8 @@ Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of 
 Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev\
 <span style="color:green; font-style:italic">NAACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]
+
+{% if include.full %}
 
 Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers\
 Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
