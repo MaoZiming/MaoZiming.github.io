@@ -35,7 +35,7 @@ I am broadly interested in computer systems and networks. -->
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
 \[2019.4\] Two papers accepted at Separation and Purification Technology -->
 
-## Selected Projects
+## Projects
 
 {% include research.md %}
 
