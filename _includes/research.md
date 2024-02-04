@@ -36,8 +36,6 @@ Xiangru Tang, Alexander Fabbri, Haoran Li, **Ziming Mao**, Griffin Adams, Borui 
 <span style="color:green; font-style:italic">NAACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.naacl-main.417/" target="_blank">Paper</a>]
 
-{% if include.full %}
-
 Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers\
 Yong Zen Tan, **Ziming Mao**, Yanjun Zhang, Wen See Tan, Tzyy Haur Chong, Bing Wu, Jia Wei Chew\
 <span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
@@ -47,5 +45,9 @@ Spacer vibration for fouling control of submerged flat sheet membranes\
 Bing Wu, Yanjun Zhang, **Ziming Mao**, Wen See Tan, Yong Zen Tan, Jia Wei Chew, Tzyy Haur Chong, Anthony G Fane\
 <span style="color:green; font-style:italic">Sep. Purif. Technol. 2019</span>\
 [<a style="text-decoration:none" href="https://www.sciencedirect.com/science/article/pii/S1383586618319968" target="_blank">Paper</a>]
+
+{% if include.full %}
+
+
 
 {% endif %}

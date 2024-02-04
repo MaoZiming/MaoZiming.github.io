@@ -18,6 +18,8 @@ Hey, I am Ziming! I am a first-year PhD student at UC Berkeley, working with Pro
 
 Earlier, I was advised by Prof. <a style="text-decoration:none" href="https://www.anuragkhandelwal.com/" target="_blank">Anurag Khandelwal</a>, Prof. <a style="text-decoration:none" href="http://www.cs.yale.edu/homes/radev/" target="_blank"> Dragomir Radev</a> at Yale, and Prof. <a style="text-decoration:none" href="http://www.cs.cmu.edu/~rvinayak/" target="_blank">Rashmi Vinayak</a> at CMU. I am fortunate to work with collaborators from Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. I was awarded <a style="text-decoration:none" href="https://grad.berkeley.edu/financial/options-for-financial-support/fellowships/" target="_blank"> Berkeley College of Engineering Fellowship</a> (2023), <a style="text-decoration:none" href="https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/" target="_blank"> Outstanding Undergraduate Researcher Award</a> (2023) Runner-Up, <a style="text-decoration:none" href="https://seas.yale.edu/news-events/news/congratulations-seas-class-2023" target="_blank">Computer Science Prize</a> (2023), and <a style="text-decoration:none" href="https://science.yalecollege.yale.edu/yale-undergraduate-research/fellowship-grants/yale-college-deans-research-fellowship" target="_blank">Rosenfeld Science Scholars Fellowship</a> (2021).
 
+I am currently working on <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud. 
+
 <!-- I am broadly interested in <span style="color:green; font-style:italic">Computer Systems</span>.  -->
 
 <!--## Research
@@ -39,7 +41,7 @@ I am broadly interested in computer systems and networks. -->
 
 {% include research.md %}
 
-For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+<!-- For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>. -->
 
 
 ## Miscellaneous
