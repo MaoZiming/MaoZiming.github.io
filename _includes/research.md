@@ -1,3 +1,8 @@
+
+*Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
+**Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
+<span style="color:green; font-style:italic">EuroSys 2024</span>
+
 *Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
 Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">NSDI 2024</span>
@@ -10,9 +15,6 @@ Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 {% if include.full %}
 {% else %}
 
-*Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
-**Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
-<span style="color:green; font-style:italic">In Submission</span>
 
 {% endif %}
 
