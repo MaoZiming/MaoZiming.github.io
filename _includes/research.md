@@ -5,7 +5,7 @@
 
 *Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
 Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">NSDI 2024, Outstanding Paper Award</span>
+<span style="color:green; font-style:italic">NSDI 2024, Outstanding Paper Award</span>\
 [<a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/spot-traces" target="_blank">Code</a>]
 
 *GL-Cache*: Group-level Learning for Efficient and High-Performance Caching\
