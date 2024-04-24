@@ -1,8 +1,8 @@
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
-<span style="color:green; font-style:italic">EuroSys 2024</span>\
-[<a style="text-decoration:none" href="https://www.anuragkhandelwal.com/papers/trinity.pdf" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Trinity-data-store/Trinity" target="_blank">Code</a>]
+<span style="color:green; font-style:italic">EuroSys 2024, Best Student Paper Award</span>\
+[<a style="text-decoration:none" href="https://dl.acm.org/doi/pdf/10.1145/3627703.3650072" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Trinity-data-store/Trinity" target="_blank">Code</a>]
 
 
 *Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
