@@ -1,4 +1,8 @@
 
+Revisiting Cache Freshness for Emerging Real-Time Applications\
+**Ziming Mao**, Rishabh Iyer, Ion Stoica, Scott Shenker\
+<span style="color:green; font-style:italic">Hot Topics in Networks (HotNets) 2024</span>
+
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 <span style="color:green; font-style:italic">EuroSys 2024, Best Student Paper Award</span>\
