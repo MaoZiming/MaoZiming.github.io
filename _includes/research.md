@@ -1,6 +1,6 @@
 
 Revisiting Cache Freshness for Emerging Real-Time Applications\
-**Ziming Mao**, Rishabh Iyer, Ion Stoica, Scott Shenker\
+**Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">HotNets 2024</span>
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
