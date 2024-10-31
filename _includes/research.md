@@ -1,7 +1,8 @@
 
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">HotNets 2024</span>
+<span style="color:green; font-style:italic">HotNets 2024</span>\
+[<a style="text-decoration:none" href="https://rishabh246.github.io/files/freshness.pdf" target="_blank">Paper</a>]
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
