@@ -37,6 +37,11 @@ I am broadly interested in computer systems and networks. -->
 \[2019.5\] Graduated from Hwa Chong Institution, Singapore!\
 \[2019.4\] Two papers accepted at Separation and Purification Technology -->
 
+## Education
+
+* **Ph.D. in Computer Science**, UC Berkeley, 2023 - Present
+* **B.S. in Computer Science and Philosophy**, Yale University, 2019 - 2023
+
 ## Publications
 
 {% include research.md %}
