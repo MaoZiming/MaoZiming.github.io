@@ -27,7 +27,7 @@ Spirit: Fairness for Interdependent Cache and Bandwidth Resources\
 Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal.\
 <span style="color:green; font-style:italic">In Submission</span>
 
-*Radar*: Unlocking Heterogeneous Execution with the Streaming Batch Model.\
+*Ray Data*: Unlocking Heterogeneous Execution with the Streaming Batch Model.\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Eric Liang, Ion Stoica, Stephanie Wang\
 <span style="color:green; font-style:italic">In Submission</span>
 
