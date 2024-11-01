@@ -32,7 +32,7 @@ Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 [<a style="text-decoration:none" href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Thesys-lab/fast23-GLCache" target="_blank">Code</a>]
 
 Spirit: Fairness for Interdependent Cache and Bandwidth Resources\
-Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal.
+Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal.\
 <span style="color:green; font-style:italic">In Submission</span>
 
 {% if include.full %}
