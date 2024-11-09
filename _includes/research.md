@@ -23,10 +23,10 @@ Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott
 Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 <span style="color:green; font-style:italic">FAST 2023</span>\
 [<a style="text-decoration:none" href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Thesys-lab/fast23-GLCache" target="_blank">Code</a>]
-<!-- 
-*Ray Data*: Unlocking Heterogeneous Execution with the Streaming Batch Model.\
+
+<!-- *Ray Data*: Unlocking Heterogeneous Execution with the Streaming Batch Model.\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Eric Liang, Ion Stoica, Stephanie Wang\
-<span style="color:green; font-style:italic">In Submission</span>
+<span style="color:green; font-style:italic">In Submission</span> -->
 
 <!-- *Pi*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
