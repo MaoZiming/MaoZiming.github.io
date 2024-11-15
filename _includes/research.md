@@ -30,7 +30,7 @@ Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty,
 
 *Pie*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
-<span style="color:green; font-style:italic">In Submission</span>
+<span style="color:green; font-style:italic">In Submission</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.09317" target="_blank">Paper</a>]
 
 <!-- *Spirit*: Fairness for Interdependent Cache and Bandwidth Resources\
