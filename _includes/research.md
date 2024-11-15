@@ -28,9 +28,10 @@ Juncheng Yang, **Ziming Mao**, Rashmi Vinayak, Yao Yue\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Eric Liang, Ion Stoica, Stephanie Wang\
 <span style="color:green; font-style:italic">In Submission</span> -->
 
-<!-- *Pi*: Pooling CPU Memory for LLM Inference.\
+*Pie*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
-<span style="color:green; font-style:italic">In Submission</span> -->
+<span style="color:green; font-style:italic">In Submission</span>
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.09317" target="_blank">Paper</a>]
 
 <!-- *Spirit*: Fairness for Interdependent Cache and Bandwidth Resources\
 Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal.\
