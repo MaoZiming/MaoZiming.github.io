@@ -2,7 +2,7 @@
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">HotNets 2024</span>\
-[<a style="text-decoration:none" href="https://rishabh246.github.io/files/freshness.pdf" target="_blank">Paper</a>]
+[<a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">Paper</a>]
 
 *SkyServe*: Serving AI Models across Regions and Clouds with Spot Instances\
 **Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
