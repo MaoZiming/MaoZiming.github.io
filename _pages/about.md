@@ -28,7 +28,7 @@ My research areas are broadly in distributed systems, in the context of cloud, d
 
 Some earlier projects:
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a>, a distributed data store that faciliates both fast multi-attribute queries and storage efficiency.
-* I also worked on NLP, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based document summarization</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
+* I also worked on NLP, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based summarization</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
 
 <!-- I am broadly interested in <span style="color:green; font-style:italic">Computer Systems</span>.  -->
 
