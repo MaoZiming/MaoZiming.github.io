@@ -58,6 +58,9 @@ I am broadly interested in computer systems and networks. -->
 
 <!-- For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>. -->
 
+## Services
+* **Artifact Evaluation Committee**: EuroSys 25', FAST 25'
+* **Organizer**: Sky Systems Seminar, UC Berkeley
 
 ## Miscellaneous
 * I grew up in Ningbo, China and studied in Singapore at Hwa Chong Institution.
