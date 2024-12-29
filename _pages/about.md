@@ -24,7 +24,7 @@ My research areas are broadly in distributed systems, in the context of cloud, d
 
 * I am currently exploring a new distributed caching architecture targetting data-intensive applications that need consistent reads. Earlier I looked into new <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">cache freshness</a> mechanisms, and <a style="text-decoration:none" href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng" target="_blank">learned caches</a>. 
 * I worked on <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud, <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs, and <a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">using Spot GPUs for training</a>.
-* I am contributing to <a style="text-decoration:none" href="https://docs.ray.io/en/latest/data/data.html" target="_blank">Ray Data</a>, a framework for efficient and fault-tolerant execution for ML model training and inference over hetereogenous resources. 
+* I am contributing to <a style="text-decoration:none" href="https://docs.ray.io/en/latest/data/data.html" target="_blank">Ray Data</a>, a framework for efficient execution of ML training and inference over *hetereogenous* resources. 
 
 Some earlier projects:
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a>, a distributed data store that faciliates both fast multi-attribute queries and storage efficiency.
