@@ -22,7 +22,7 @@ Earlier, I was advised by Prof. <a style="text-decoration:none" href="https://ww
 
 My research areas are broadly in distributed systems, in the context of cloud, data and AI. Selected projects: 
 
-* I am currently exploring a new distributed caching architecture targetting data-intensive applications that need consistent reads. I looked into cache <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">freshness</a> in replacement of TTL, and earlier ML-based <a style="text-decoration:none" href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng" target="_blank">learned caches</a>. 
+* I am currently exploring a new distributed caching architecture targetting data-intensive applications that need consistent reads. I looked into new cache <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">freshness</a> mechanisms, and ML-based <a style="text-decoration:none" href="https://www.usenix.org/conference/fast23/presentation/yang-juncheng" target="_blank">learned caches</a>. 
 * I worked on <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud, and <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over both Spot and On-Demand instances.
 * I am contributing to <a style="text-decoration:none" href="https://docs.ray.io/en/latest/data/data.html" target="_blank">Ray Data</a>, a framework for efficient and fault-tolerant execution for ML model training and inference over hetereogenous resources. 
 
