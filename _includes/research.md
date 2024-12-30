@@ -6,7 +6,7 @@ Revisiting Cache Freshness for Emerging Real-Time Applications\
 
 *SkyServe*: Serving AI Models across Regions and Clouds with Spot Instances\
 **Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">In Submission</span>\
+<span style="color:green; font-style:italic">arXiv preprint</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
 
 *Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
@@ -30,7 +30,7 @@ Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty,
 
 *Pie*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
-<span style="color:green; font-style:italic">In Submission</span>\
+<span style="color:green; font-style:italic">arXiv preprint</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.09317" target="_blank">Paper</a>]
 
 <!-- *Spirit*: Fairness for Interdependent Cache and Bandwidth Resources\
