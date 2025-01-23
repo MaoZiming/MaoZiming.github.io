@@ -4,6 +4,11 @@ Revisiting Cache Freshness for Emerging Real-Time Applications\
 <span style="color:green; font-style:italic">HotNets 2024</span>\
 [<a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">Paper</a>]
 
+The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
+Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
+<span style="color:green; font-style:italic">arXiv preprint</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
+
 *SkyServe*: Serving AI Models across Regions and Clouds with Spot Instances\
 **Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">arXiv preprint</span>\
