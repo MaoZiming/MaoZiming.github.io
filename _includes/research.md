@@ -3,6 +3,11 @@
 <span style="color:green; font-style:italic">EuroSys 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
 
+Locality-aware Fair Scheduling in LLM Serving\
+Shiyi Cao, Yichuan Wang, **Ziming Mao**, Pin-Lun Hsu, Liangsheng Yin, Tian Xia, Dacheng Li, Shu Liu, Yineng Zhang, Yang Zhou, Ying Sheng, Joseph Gonzalez, Ion Stoica\
+<span style="color:green; font-style:italic">arXiv preprint</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2501.14312" target="_blank">Paper</a>]
+
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">HotNets 2024</span>\
