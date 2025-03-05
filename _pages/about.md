@@ -56,18 +56,9 @@ I am broadly interested in computer systems and networks. -->
 
 {% include selected_research.md %} 
 
-
 ## Additional Publications
 
 {% include additional_research.md %} 
-
-
-<!-- 
-## Publications
-
-{% include research.md %} -->
-
-<!-- For a full list of publications, please see <a style="text-decoration:none" href="https://scholar.google.com/citations?user=ycaUmLkAAAAJ&hl=en" target="_blank">Google Scholar</a>. -->
 
 ## Services
 * **Artifact Evaluation Committee**: EuroSys 25', FAST 25'
