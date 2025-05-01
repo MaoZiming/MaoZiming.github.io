@@ -1,3 +1,8 @@
+An Extensible Software Transport Layer for GPU Networking
+Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica
+<span style="color:green; font-style:italic">arXiv preprint</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>]
+
 *Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
 Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">NSDI 2024, Outstanding Paper Award</span>\
