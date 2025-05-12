@@ -10,7 +10,7 @@ Revisiting Cache Freshness for Emerging Real-Time Applications\
 [<a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3696348.3696858" target="_blank">Paper</a>]
 
 
-*Trinity*: A Fast and Space-efficient Multi-attribute Data Store\
+*Trinity*: A Fast Compressed Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
 <span style="color:green; font-style:italic">EuroSys 2024, Best Student Paper Award</span>\
 [<a style="text-decoration:none" href="https://dl.acm.org/doi/pdf/10.1145/3627703.3650072" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Trinity-data-store/Trinity" target="_blank">Code</a>]
