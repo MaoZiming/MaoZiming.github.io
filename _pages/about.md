@@ -24,12 +24,13 @@ My research areas are broadly in systems and networking, in the context of cloud
 
 * <a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">UCCL</a>, an extensible GPU communication library for both training and inference. 
 * Clink, a consistent distributed caching architecture for high-volume search and AI serving.
-* <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud, <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs, and <a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">using Spot GPUs for training</a>.
+* <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs.
+* <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Ray Data</a>, a framework for efficient execution of ML training and inference pipelines over hetereogenous resources. 
 
 Some earlier projects:
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a>, a distributed data store that achieves both fast multi-attribute queries and storage efficiency.
-* I also worked on NLP, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based summarization</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
+* I worked on NLP in Yale <a style="text-decoration:none" href="https://yale-lily.github.io/" target="_blank">LILY</a>, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based summarization</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
 
 <!-- I am broadly interested in <span style="color:green; font-style:italic">Computer Systems</span>.  -->
 
