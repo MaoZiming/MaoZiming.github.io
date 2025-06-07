@@ -3,7 +3,7 @@ Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govind
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>]
 
-SkyLB: A Locality-$$Aware Cross-Region Load Balancer for LLM Inference\
+SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
 Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
