@@ -23,7 +23,7 @@ Earlier, I worked with <a style="text-decoration:none" href="https://scholar.goo
 My research areas are broadly in systems and networking, in the context of cloud, data and AI.  
 
 * <a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">UCCL</a>, an extensible GPU communication library for both training and inference. 
-* Clink, a consistent distributed caching architecture for high-volume search and AI serving.
+* <a style="text-decoration:none" href="https://drive.google.com/file/d/1n2rCB-bdgfM1A5LJu4RfLHNOmX6_25sJ/view?usp=drive_link" target="_blank">Clink</a>, a consistent distributed caching architecture for high-volume search and AI serving.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Ray Data</a>, a framework for efficient execution of ML training and inference pipelines over hetereogenous resources. 
