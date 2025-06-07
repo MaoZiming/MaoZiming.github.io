@@ -1,11 +1,11 @@
 An Extensible Software Transport Layer for GPU Networking\
 Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
-<span style="color:green; font-style:italic">arXiv preprint</span>\
+<span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>]
 
-SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
+SkyLB: A Locality-$$Aware Cross-Region Load Balancer for LLM Inference\
 Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">arXiv preprint</span>\
+<span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
 
 *Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
@@ -16,13 +16,13 @@ Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott
 
 Locality-aware Fair Scheduling in LLM Serving\
 Shiyi Cao, Yichuan Wang, **Ziming Mao**, Pin-Lun Hsu, Liangsheng Yin, Tian Xia, Dacheng Li, Shu Liu, Yineng Zhang, Yang Zhou, Ying Sheng, Joseph Gonzalez, Ion Stoica\
-<span style="color:green; font-style:italic">arXiv preprint</span>\
+<span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2501.14312" target="_blank">Paper</a>]
 
 
 The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
-<span style="color:green; font-style:italic">arXiv preprint</span>\
+<span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
 
 
@@ -38,7 +38,7 @@ Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty,
 
 *Pie*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
-<span style="color:green; font-style:italic">arXiv preprint</span>\
+<span style="color:green; font-style:italic">ArXiv 2024</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.09317" target="_blank">Paper</a>]
 
 
