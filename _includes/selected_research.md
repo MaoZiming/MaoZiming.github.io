@@ -20,3 +20,8 @@ _DYLE_: Dynamic Latent Extraction for Abstractive Long-Input Summarization\
 **Ziming Mao**\*, Chen Henry Wu\*, Ansong Ni, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed Hassan Awadallah, Dragomir R. Radev\
 <span style="color:green; font-style:italic">ACL 2022</span>\
 [<a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/Yale-LILY/DYLE" target="_blank">Code</a>]
+
+*Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
+Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">NSDI 2024, Outstanding Paper Award</span>\
+[<a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/spot-traces" target="_blank">Code</a>]

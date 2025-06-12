@@ -1,3 +1,8 @@
+LEANN: A Low-Storage Vector Index
+Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez
+<span style="color:green; font-style:italic">ICML 2025 VecDB Workshop</span>\
+[<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>]
+
 An Extensible Software Transport Layer for GPU Networking\
 Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
@@ -8,21 +13,16 @@ Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong X
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
 
-*Can't Be Late*: Optimizing Spot Instance Savings under Deadlines\
-Zhanghao Wu, Wei-Lin Chiang, **Ziming Mao**, Zongheng Yang, Eric Friedman, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">NSDI 2024, Outstanding Paper Award</span>\
-[<a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/spot-traces" target="_blank">Code</a>]
-
 
 Locality-aware Fair Scheduling in LLM Serving\
 Shiyi Cao, Yichuan Wang, **Ziming Mao**, Pin-Lun Hsu, Liangsheng Yin, Tian Xia, Dacheng Li, Shu Liu, Yineng Zhang, Yang Zhou, Ying Sheng, Joseph Gonzalez, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2025</span>\
+<span style="color:green; font-style:italic">ArXiv 2024</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2501.14312" target="_blank">Paper</a>]
 
 
 The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
-<span style="color:green; font-style:italic">ArXiv 2025</span>\
+<span style="color:green; font-style:italic">ArXiv 2024</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
 
 
