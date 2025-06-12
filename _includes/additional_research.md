@@ -1,4 +1,4 @@
-LEANN: A Low-Storage Vector Index
+LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
 <span style="color:green; font-style:italic">ICML 2025 VecDB Workshop</span>\
 [<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>]
