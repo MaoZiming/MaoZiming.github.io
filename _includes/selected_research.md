@@ -3,6 +3,9 @@
 <span style="color:green; font-style:italic">EuroSys 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
 
+Spirit: Fairness for Interdependent Cache and Bandwidth Resources.\
+Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
+<span style="color:green; font-style:italic">SOSP 2025 (To Appear)</span>
 
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
