@@ -5,7 +5,7 @@
 
 Spirit: Fairness for Interdependent Cache and Bandwidth Resources.\
 Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
-<span style="color:green; font-style:italic">SOSP 2025 (To Appear)</span>
+<span style="color:green; font-style:italic">SOSP 2025</span>
 
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
