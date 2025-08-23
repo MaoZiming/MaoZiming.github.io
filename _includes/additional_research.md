@@ -1,3 +1,8 @@
+SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
+Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">EuroSys 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
+
 LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
 <span style="color:green; font-style:italic">ICML 2025 VecDB Workshop</span>\
@@ -7,11 +12,6 @@ An Extensible Software Transport Layer for GPU Networking\
 Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">Code</a>]
-
-SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
-Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2025</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
 
 
 Locality-aware Fair Scheduling in LLM Serving\
