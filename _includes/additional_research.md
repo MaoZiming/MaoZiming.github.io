@@ -1,7 +1,4 @@
-SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
-Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">EuroSys 2026</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
+
 
 LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\

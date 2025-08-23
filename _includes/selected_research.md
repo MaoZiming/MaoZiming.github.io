@@ -1,11 +1,16 @@
-*SkyServe*: Serving AI Models across Regions and Clouds with Spot Instances\
-**Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">EuroSys 2025</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
+SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
+Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">EuroSys 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
 
 Spirit: Fairness for Interdependent Cache and Bandwidth Resources.\
 Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
 <span style="color:green; font-style:italic">SOSP 2025</span>
+
+*SkyServe*: Serving AI Models across Regions and Clouds with Spot Instances\
+**Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">EuroSys 2025</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
 
 Revisiting Cache Freshness for Emerging Real-Time Applications\
 **Ziming Mao**, Rishabh Iyer, Scott Shenker, Ion Stoica\
