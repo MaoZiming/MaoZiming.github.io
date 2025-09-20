@@ -3,6 +3,10 @@ Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong X
 <span style="color:green; font-style:italic">EuroSys 2026</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">Paper</a>]
 
+Rethinking Cost of Distributed Caches for Datacenter Services\
+**Ziming Mao**, Jonathan Ellithorpe, Atul Adya, Rishabh Iyer, Matei Zaharia, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">HotNets 2025</span>
+
 Spirit: Fairness for Interdependent Cache and Bandwidth Resources.\
 Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
 <span style="color:green; font-style:italic">SOSP 2025</span>
