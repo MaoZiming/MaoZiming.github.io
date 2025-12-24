@@ -1,5 +1,5 @@
-UCCL-EP: Portable Expert-Parallel Communication
-**Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica
+UCCL-EP: Portable Expert-Parallel Communication\
+**Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl/tree/main/ep" target="_blank">Code</a>]
 
