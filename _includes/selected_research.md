@@ -1,3 +1,8 @@
+SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
+Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">ArXiv 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
+
 UCCL-EP: Portable Expert-Parallel Communication\
 **Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
