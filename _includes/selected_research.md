@@ -8,6 +8,11 @@ UCCL-EP: Portable Expert-Parallel Communication\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl/tree/main/ep" target="_blank">Code</a>]
 
+LEANN: A Low-Storage Vector Index\
+Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
+<span style="color:green; font-style:italic">MLSys 26'</span>\
+[<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/yichuan-w/LEANN" target="_blank">Code</a>]
+
 SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
 Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">EuroSys 2026</span>\
@@ -25,11 +30,6 @@ Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
 **Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">EuroSys 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
-
-LEANN: A Low-Storage Vector Index\
-Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
-<span style="color:green; font-style:italic">ICML 2025 VecDB Workshop</span>\
-[<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/yichuan-w/LEANN" target="_blank">Code</a>]
 
 An Extensible Software Transport Layer for GPU Networking\
 Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
