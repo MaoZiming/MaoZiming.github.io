@@ -1,8 +1,3 @@
-SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
-Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2026</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
-
 UCCL-EP: Portable Expert-Parallel Communication\
 **Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2025</span>\
@@ -10,8 +5,18 @@ UCCL-EP: Portable Expert-Parallel Communication\
 
 LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
-<span style="color:green; font-style:italic">MLSys 26'</span>\
+<span style="color:green; font-style:italic">MLSys 2026</span>\
 [<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/yichuan-w/LEANN" target="_blank">Code</a>]
+
+K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model\
+Shiyi Cao, **Ziming Mao**, Joseph E Gonzalez, Ion Stoica\
+<span style="color:green; font-style:italic">ArXiv 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2602.19128" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/caoshiyi/K-Search" target="_blank">Code</a>]
+
+SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
+Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">ArXiv 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
 
 SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
 Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
