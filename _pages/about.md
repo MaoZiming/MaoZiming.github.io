@@ -20,9 +20,9 @@ Earlier, I worked with <a style="text-decoration:none" href="https://scholar.goo
 
 ## Research
 
-My research areas are broadly in systems and networking, in the context of cloud, data and AI.  
-
-* <a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">UCCL</a>, a fast and extensible GPU communication library that supports heterogeneous GPU and networking vendors. 
+My research areas are broadly in systems and networking, in the context of cloud, data and AI. My current focus is on **GPU communication**, with an emphasis on coordinating communication with computation and co-designing with higher-level frameworks. In particular, I research new **GPU communication abstractions and primitives** that enable fine-grained communication–computation overlap while preserving **software flexibility**, **portability**, and **performance**.
+* <a style="text-decoration:none" href="https://github.com/uccl-project/uccl/tree/main/ep" target="_blank">UCCL-EP</a>, a portable and performant expert-parallel communication library. 
+* <a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">UCCL-transport</a>, an Extensible Software Transport Layer for GPU Networking
 * <a style="text-decoration:none" href="https://drive.google.com/file/d/1n2rCB-bdgfM1A5LJu4RfLHNOmX6_25sJ/view?usp=drive_link" target="_blank">Clink</a>, a consistent distributed caching architecture for high-volume search and AI serving.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud.
