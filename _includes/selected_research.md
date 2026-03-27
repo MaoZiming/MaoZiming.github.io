@@ -1,7 +1,16 @@
 UCCL-EP: Portable Expert-Parallel Communication\
 **Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2025</span>\
+<span style="color:green; font-style:italic">OSDI 2026</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl/tree/main/ep" target="_blank">Code</a>]
+
+WriteGuards: Distributed Storage Support for Strongly Consistent Caches\
+**Ziming Mao**, Atul Adya, Jonathan Ellithorpe, Rishabh Iyer, Matei Zaharia, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">OSDI 2026</span>
+
+An Extensible Software Transport Layer for GPU Networking\
+Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
+<span style="color:green; font-style:italic">OSDI 2026</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">Code</a>]
 
 LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
@@ -35,11 +44,6 @@ Seung-seob Lee, Jachym Putta, **Ziming Mao**, Anurag Khandelwal\
 **Ziming Mao**\*, Tian Xia\*, Zhanghao Wu, Wei-Lin Chiang, Tyler Griggs, Romil Bhardwaj, Zongheng Yang, Scott Shenker, Ion Stoica\
 <span style="color:green; font-style:italic">EuroSys 2025</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">Code</a>]
-
-An Extensible Software Transport Layer for GPU Networking\
-Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2025</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/uccl-project/uccl" target="_blank">Code</a>]
 
 *Trinity*: A Fast Compressed Multi-attribute Data Store\
 **Ziming Mao**, Anurag Khandelwal, Kiran Srinivasan\
