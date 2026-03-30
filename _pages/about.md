@@ -21,17 +21,17 @@ Earlier, I worked with <a style="text-decoration:none" href="https://scholar.goo
 ## Research
 
 My current focus is on **GPU communication**, with an emphasis on coordinating communication with computation and co-designing with higher-level frameworks. In particular, I research new **GPU communication abstractions and primitives** that enable fine-grained communication–computation overlap while preserving software flexibility, portability, and performance. 
-* <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a>, a portable and performant expert-parallel communication library. 
-* <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a>, an Extensible Software Transport Layer for GPU Networking.
+* <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a portable and performant expert-parallel communication library. 
+* <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), an Extensible Software Transport Layer for GPU Networking.
   
 I am also broadly in ML systems and networking, in the context of cloud, data, and emerging AI workloads.
-* <a style="text-decoration:none" href="https://drive.google.com/file/d/1n2rCB-bdgfM1A5LJu4RfLHNOmX6_25sJ/view?usp=drive_link" target="_blank">Clink</a>, a consistent distributed caching architecture for high-volume search and AI serving.
-* <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a>, serving AI models across regions and clouds over Spot and On-Demand GPUs.
+* <a style="text-decoration:none" href="https://drive.google.com/file/d/1n2rCB-bdgfM1A5LJu4RfLHNOmX6_25sJ/view?usp=drive_link" target="_blank">Clink</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a consistent distributed caching architecture for high-volume search and AI serving.
+* <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a> (<span style="color:green; font-style:italic">EuroSys 2025</span>), serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://github.com/skypilot-org/skypilot" target="_blank">SkyPilot</a>, a framework for running LLMs, AI, and batch jobs on any cloud.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Ray Data</a>, a framework for efficient execution of ML training and inference pipelines over hetereogenous resources. 
 
 Some earlier projects:
-* <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a>, a distributed data store that achieves both fast multi-attribute queries and storage efficiency.
+* <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a> (<span style="color:green; font-style:italic">EuroSys 2024</span>), a distributed data store that achieves both fast multi-attribute queries and storage efficiency.
 * I worked on NLP in Yale <a style="text-decoration:none" href="https://yale-lily.github.io/" target="_blank">LILY</a>, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based generation</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
 
 <!-- I am broadly interested in <span style="color:green; font-style:italic">Computer Systems</span>.  -->
