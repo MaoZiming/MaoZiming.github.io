@@ -24,7 +24,7 @@ My current focus is on **GPU communication**, with an emphasis on coordinating c
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a portable and performant expert-parallel communication library. 
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), an Extensible Software Transport Layer for GPU Networking.
   
-I am also broadly in ML systems and networking, in the context of cloud, data, and emerging AI workloads.
+I am also broadly in ML **systems and networking**, in the context of **cloud**, **data**, and **emerging AI workloads.**
 * <a style="text-decoration:none" href="https://drive.google.com/file/d/1n2rCB-bdgfM1A5LJu4RfLHNOmX6_25sJ/view?usp=drive_link" target="_blank">Clink</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a consistent distributed caching architecture for high-volume search and AI serving.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a> (<span style="color:green; font-style:italic">EuroSys 2025</span>), serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">SkyLB</a> (<span style="color:green; font-style:italic">EuroSys 2026</span>), a locality-aware cross-region load balancer for LLM inference.
