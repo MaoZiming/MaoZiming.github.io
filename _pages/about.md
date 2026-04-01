@@ -33,6 +33,7 @@ I am also broadly in ML systems and networking, in the context of cloud, data, a
 
 Some earlier projects:
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/pdf/10.1145/3731569.3764805" target="_blank">Spirit</a> (<span style="color:green; font-style:italic">SOSP 2025</span>), ensuring fair allocation of cache and bandwidth resources.
+* <a style="text-decoration:none" href="https://www.usenix.org/system/files/nsdi24-wu-zhanghao.pdf" target="_blank">Can't Be Late</a> (<span style="color:green; font-style:italic">NSDI 2024</span>), optimizing spot GPU scheduling for batch / training workloads.
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/10.1145/3627703.3650072" target="_blank">Trinity</a> (<span style="color:green; font-style:italic">EuroSys 2024</span>), a distributed data store that achieves both fast multi-attribute queries and storage efficiency.
 * I worked on NLP in Yale <a style="text-decoration:none" href="https://yale-lily.github.io/" target="_blank">LILY</a>, on <a style="text-decoration:none" href="https://aclanthology.org/2022.acl-long.118/" target="_blank">retrieval-based generation</a> and <a style="text-decoration:none" href="https://aclanthology.org/2022.tacl-1.3/" target="_blank">table-based question answering</a>. 
 
