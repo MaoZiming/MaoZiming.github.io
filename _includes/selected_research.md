@@ -14,7 +14,7 @@ Yang Zhou, Zhongjie Chen, **Ziming Mao**, ChonLam Lao, Shuo Yang, Pravein Govind
 
 LEANN: A Low-Storage Vector Index\
 Yichuan Wang, Shu Liu, Zhifei Li, Yongji Wu, **Ziming Mao**, Yilong Zhao, Xiao Yan, Zhiying Xu, Yang Zhou, Ion Stoica, Sewon Min, Matei Zaharia, Joseph E. Gonzalez\
-<span style="color:green; font-style:italic">MLSys 2026</span>\
+<span style="color:green; font-style:italic">MLSys 2026, Best Paper Award</span>\
 [<a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/yichuan-w/LEANN" target="_blank">Code</a>]
 
 K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model\
