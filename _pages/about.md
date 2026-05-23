@@ -21,7 +21,7 @@ Earlier, I worked with <a style="text-decoration:none" href="https://scholar.goo
 ## Research
 
 My current focus is on **GPU communication**, with an emphasis on coordinating communication with computation and co-designing with higher-level frameworks. In particular, I research new **GPU communication abstractions and primitives** that enable fine-grained communication–computation overlap while preserving software flexibility, portability, and performance. 
-* <a style="text-decoration:none" href="https://github.com/uccl-project/mKernel" target="_blank">mKernel</a>, fast multi-node, multi-GPU fused kernels.
+* <a style="text-decoration:none" href="https://github.com/uccl-project/mKernel" target="_blank">mKernel</a>, fast multi-node, multi-GPU fused comp/comm kernels.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a portable and performant expert-parallel communication library. 
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), an Extensible Software Transport Layer for GPU Networking.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2604.17172" target="_blank">UCCL-Zip</a>, lossless Compression for GPU Communication.
