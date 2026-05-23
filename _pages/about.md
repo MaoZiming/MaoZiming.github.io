@@ -24,7 +24,7 @@ My current focus is on **GPU communication**, with an emphasis on coordinating c
 * <a style="text-decoration:none" href="https://github.com/uccl-project/mKernel" target="_blank">mKernel</a>, fast multi-node, multi-GPU fused comp/comm kernels.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a portable and performant expert-parallel communication library. 
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), an Extensible Software Transport Layer for GPU Networking.
-* <a style="text-decoration:none" href="https://arxiv.org/pdf/2604.17172" target="_blank">UCCL-Zip</a>, lossless Compression for GPU Communication.
+* <a style="text-decoration:none" href="https://arxiv.org/pdf/2604.17172" target="_blank">UCCL-Zip</a>, lossless compression for GPU Communication.
 
   
 I am also broadly in ML **systems and networking**, in the context of **cloud**, **data**, and **emerging AI workloads.**
