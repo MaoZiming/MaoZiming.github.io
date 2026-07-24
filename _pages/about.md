@@ -32,7 +32,8 @@ I am also broadly in ML **systems and networking**, in the context of **cloud**,
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a> (<span style="color:green; font-style:italic">EuroSys 2025</span>), serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">SkyLB</a> (<span style="color:green; font-style:italic">EuroSys 2026</span>), a locality-aware cross-region load balancer for LLM inference.
 * <a style="text-decoration:none" href="https://www.arxiv.org/abs/2506.08276" target="_blank">LEANN</a> (<span style="color:green; font-style:italic">MLSys 2026</span>), a low-storage vector index.
-* <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Ray Data</a>, a framework for efficient execution of ML training and inference pipelines over hetereogenous resources. 
+* <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Ray Data</a> (<span style="color:green; font-style:italic">NSDI 2027</span>), a framework for efficient execution of ML training and inference pipelines over hetereogenous resources. 
+* <a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">SkyVoyager</a> (<span style="color:green; font-style:italic">NSDI 2027</span>), a multi-region scheduling system for AI batch jobs. 
 
 Some earlier projects:
 * <a style="text-decoration:none" href="https://dl.acm.org/doi/pdf/10.1145/3731569.3764805" target="_blank">Spirit</a> (<span style="color:green; font-style:italic">SOSP 2025</span>), ensuring fair allocation of cache and bandwidth resources.
