@@ -24,7 +24,7 @@ Shiyi Cao, **Ziming Mao**, Joseph E Gonzalez, Ion Stoica\
 
 SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
 Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">ArXiv 2026</span>\
+<span style="color:green; font-style:italic">NSDI 2027</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
 
 SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
@@ -67,7 +67,7 @@ Shiyi Cao, Yichuan Wang, **Ziming Mao**, Pin-Lun Hsu, Liangsheng Yin, Tian Xia, 
 
 The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
 Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
-<span style="color:green; font-style:italic">ArXiv 2024</span>\
+<span style="color:green; font-style:italic">NSDI 2027</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
 
 *Pie*: Pooling CPU Memory for LLM Inference.\
