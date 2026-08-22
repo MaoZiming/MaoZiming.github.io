@@ -1,3 +1,13 @@
+SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
+Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
+<span style="color:green; font-style:italic">NSDI 2027</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
+
+The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
+Frank Sifei Luan, Ron Yifeng Wang, Yile Gu, **Ziming Mao**, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
+<span style="color:green; font-style:italic">NSDI 2027</span>\
+[<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
+
 UCCL-EP: Portable Expert-Parallel Communication\
 **Ziming Mao**, Yihan Zhang, Chihan Cui, Kaichao You, Zhongjie Chen, Zhiying Xu, Scott Shenker, Costin Raiciu, Yang Zhou, Ion Stoica\
 <span style="color:green; font-style:italic">OSDI 2026</span>\
@@ -21,11 +31,6 @@ K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model\
 Shiyi Cao, **Ziming Mao**, Joseph E Gonzalez, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2026</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2602.19128" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/caoshiyi/K-Search" target="_blank">Code</a>]
-
-SkyNomad: On Using Multi-Region Spot Instances to Minimize AI Batch Job Cost\
-Zhifei Li, Tian Xia, **Ziming Mao**, Zihan Zhou, Ethan J. Jackson, Jamison Kerney, Zhanghao Wu, Pratik Mishra, Yi Xu, Yifan Qiao, Scott Shenker, Ion Stoica\
-<span style="color:green; font-style:italic">NSDI 2027</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/abs/2601.06520" target="_blank">Paper</a>]
 
 SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference\
 Tian Xia, **Ziming Mao**, Jamison Kerney, Ethan J. Jackson, Zhifei Li, Jiarong Xing, Scott Shenker, Ion Stoica\
@@ -64,11 +69,6 @@ Locality-aware Fair Scheduling in LLM Serving\
 Shiyi Cao, Yichuan Wang, **Ziming Mao**, Pin-Lun Hsu, Liangsheng Yin, Tian Xia, Dacheng Li, Shu Liu, Yineng Zhang, Yang Zhou, Ying Sheng, Joseph Gonzalez, Ion Stoica\
 <span style="color:green; font-style:italic">ArXiv 2024</span>\
 [<a style="text-decoration:none" href="https://arxiv.org/pdf/2501.14312" target="_blank">Paper</a>]
-
-The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution\
-Frank Sifei Luan, **Ziming Mao**, Ron Yifeng Wang, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang\
-<span style="color:green; font-style:italic">NSDI 2027</span>\
-[<a style="text-decoration:none" href="https://arxiv.org/abs/2501.12407" target="_blank">Paper</a>] [<a style="text-decoration:none" href="https://github.com/ray-project/ray" target="_blank">Code</a>]
 
 *Pie*: Pooling CPU Memory for LLM Inference.\
 Yi Xu, **Ziming Mao**, Xiangxi Mo, Shu Liu, Ion Stoica\
