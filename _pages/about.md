@@ -20,14 +20,10 @@ I am currently a student researcher in Bytedance (seed) working on multimodal pr
 
 ## Research
 
-My current focus is on **GPU communication**, with an emphasis on coordinating communication with computation and co-designing with higher-level frameworks. In particular, I research new **GPU communication abstractions and primitives** that enable fine-grained communication–computation overlap while preserving software flexibility, portability, and performance. 
+My research focuses on designing **networked systems for distributed training and inference**. My work spans GPU communication and computation, large model training and serving across heterogeneous resources, regions, and clouds, and efficient data processing, retrieval, and caching.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2609.13585" target="_blank">mKernel</a>, fast multi-node, multi-GPU fused comp/comm kernels.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2512.19849" target="_blank">UCCL-EP</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a portable and performant expert-parallel communication library. 
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2504.17307" target="_blank">UCCL-Transport</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), an Extensible Software Transport Layer for GPU Networking.
-* <a style="text-decoration:none" href="https://arxiv.org/pdf/2604.17172" target="_blank">UCCL-Zip</a>, lossless compression for GPU Communication.
-
-  
-I am also broadly in ML **systems and networking**, in the context of **cloud**, **data**, and **emerging AI workloads.**
 * <a style="text-decoration:none" href="https://www.usenix.org/system/files/osdi26-mao-ziming-writeguards.pdf" target="_blank">Clink</a> (<span style="color:green; font-style:italic">OSDI 2026</span>), a consistent distributed caching architecture for high-volume search and AI serving.
 * <a style="text-decoration:none" href="https://arxiv.org/pdf/2411.01438" target="_blank">SkyServe</a> (<span style="color:green; font-style:italic">EuroSys 2025</span>), serving AI models across regions and clouds over Spot and On-Demand GPUs.
 * <a style="text-decoration:none" href="https://arxiv.org/abs/2505.24095" target="_blank">SkyLB</a> (<span style="color:green; font-style:italic">EuroSys 2026</span>), a locality-aware cross-region load balancer for LLM inference.
